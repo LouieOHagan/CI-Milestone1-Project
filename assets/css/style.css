@@ -18,12 +18,6 @@
     border-color: #009ad6;
 }
 
-.col-4{
-    height: 100px;
-    background-color: red;
-    margin: auto;
-}
-
 /* --------------------------Special Padding/Margin */
 
 body {
@@ -107,7 +101,15 @@ body {
     border: none;
 }
 
-/* --------------------------Media Quea */
+/* --------------------------Footer */
+.col-4, .col-2{
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
+
+
+/* --------------------------Media Query */
 
 @media (max-width:576px){
     .nav-link:hover {
