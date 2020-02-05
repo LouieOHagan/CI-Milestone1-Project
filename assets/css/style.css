@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald:400,600|Titillium+Web:200,300,400,600');
+
+/* --------------------------Colours */
+
+.bg-light {
+    background-color: #ffffff;
+}
+
+
+
+/* --------------------------Special Padding/Margin */
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Titillium+Web', sans-serif;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+/* --------------------------Navigation Bar */
+
+.logo{
+    background: url(../images/mff-favicon.png) center no-repeat;
+    background-size: 50px;
+    width: 50px;
+    height: 50px;
+    margin: 0 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.5);
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+    color: rgba(0,0,0,.8);
+    padding-bottom: 4px;
+    border-bottom: 1.5px #00a8ec solid;
+    border-radius: 5%;
+}
+
+.activated .nav-link{
+    color: #00a8ec !important;
+}
+
+/* --------------------------Media Quea */
+
+@media (max-width: 768px) {
+    .logo{
+        margin: 0px;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar-expand-md .navbar-nav {
+        margin: 0 auto;
+    }
+} 
