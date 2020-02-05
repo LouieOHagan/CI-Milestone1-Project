@@ -6,7 +6,23 @@
     background-color: #ffffff;
 }
 
+.btn-blue{
+    color: #fff;
+    background-color: #00a8ec;
+    border-color: #00a8ec;
+    border-radius: 35px;
+}
 
+.btn-blue:hover{
+    background-color: #009ad6;
+    border-color: #009ad6;
+}
+
+.col-4{
+    height: 100px;
+    background-color: red;
+    margin: auto;
+}
 
 /* --------------------------Special Padding/Margin */
 
@@ -20,6 +36,40 @@ body {
     padding: 0;
 }
 
+/* --------------------------Buttons */
+
+.btn-lang{
+    margin-right: 10px;
+    font-size: 16px;
+    padding: 1px 5px 0 8px;
+}
+
+.dropdown{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}
+
+.dropdown a{
+    color: white;
+}
+
+.dropdown-menu{
+    background-color: #00a8ec;
+    margin-left: -14px;
+}
+
+.dropdown-menu a{
+    color: white;
+}
+
+.dropdown-menu a:hover{
+    color: white;
+    background-color: #009ad6;
+}
+
+
+
 /* --------------------------Navigation Bar */
 
 .logo{
@@ -27,7 +77,7 @@ body {
     background-size: 50px;
     width: 50px;
     height: 50px;
-    margin: 0 10px;
+    margin: 0 25px 0 10px;
 }
 
 .navbar-light .navbar-nav .nav-link {
@@ -39,17 +89,45 @@ body {
     padding-bottom: 4px;
     border-bottom: 1.5px #00a8ec solid;
     border-radius: 5%;
+    transition: all .2s ease-in-out;
+    -moz-transition: all .2s ease-in-out;
+    -webkit-transition: all .2s ease-in-out;
 }
 
 .activated .nav-link{
     color: #00a8ec !important;
 }
 
+.navbar-light .navbar-toggler-icon {
+    background-image: url(../images/mff-burger-icon.png);
+    background-size: 30px;
+}
+
+.navbar-light .navbar-toggler {
+    border: none;
+}
+
 /* --------------------------Media Quea */
+
+@media (max-width:576px){
+    .nav-link:hover {
+        width: 50%;
+    }
+}
 
 @media (max-width: 768px) {
     .logo{
-        margin: 0px;
+        margin: 0;
+    }
+
+    .btn-lang{
+        /* position: absolute;
+        top: 60px;
+        right: 5px; */
+        margin: 0;
+
+        font-size: 13px;
+        padding: 1px 3px 0 5px;
     }
 }
 
@@ -58,3 +136,4 @@ body {
         margin: 0 auto;
     }
 } 
+
