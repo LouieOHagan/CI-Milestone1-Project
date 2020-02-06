@@ -47,8 +47,12 @@ body {
 
 .box-row{
     padding-right: 0;
+    margin-left: 4.1%;
 }
 
+a:hover{
+    text-decoration: none;
+}
 
 /* --------------------------Buttons */
 
@@ -90,6 +94,7 @@ body {
     border-color: white;
     color: #fff;
     background-color: #00a8ec;
+    font-weight: 600;
 }
 
 .btn-sub:hover{
@@ -138,20 +143,20 @@ body {
 /* --------------------------Footer */
 .col{
     height: 125px;
-    background-color: red;
+    
     margin: auto;
-    margin-bottom: 10px;
+    
 }
 
 .footer-base{
-    height: 160px;
+    height: 175px;
 }
 
 .footer-header{
     text-align: center;
     font-family: "Titillium Web", sans-serif;
     font-weight: 400;
-    color: lightgrey;
+    color: #fff;
     margin-top: 11px;
 }
 
@@ -181,6 +186,10 @@ body {
     line-height: 7px;
     text-align: center;
 }
+
+.connect-icons li i:hover{
+    background: #009ad6;
+}
  
 .sub-box{
     height: 29px;
@@ -191,7 +200,22 @@ body {
 .sub-label{
     color: white;
     margin: 0;
+    margin-left: 4.1%;
     font-size: 14px;
+}
+
+.copyright{
+    color: rgba(255, 255, 255, 0.925);
+    font-size: 14px;
+    text-align: center;
+    font-style: italic;
+}
+
+.creator a,
+.creator i{
+    padding: 0 2px;
+    font-style: normal;
+    color: #fff;
 }
 
 
@@ -212,6 +236,7 @@ body {
 
     .box-row{
         padding-left: 8px;
+        margin-left: 0;
     }
 
     .sub-label{
@@ -266,5 +291,9 @@ body {
         width: 35px;
         height: 35px;
         line-height: 7px;
+    }
+
+    .footer-base{
+        height: 300px;
     }
 }
