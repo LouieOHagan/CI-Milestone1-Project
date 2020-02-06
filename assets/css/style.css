@@ -27,7 +27,8 @@
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Titillium+Web', sans-serif;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
 }
 
 .container-fluid{
@@ -38,8 +39,11 @@ body {
 
 .btn-lang{
     margin-right: 10px;
-    font-size: 16px;
-    padding: 1px 5px 0 8px;
+    padding: 0px 5px 0 8px;
+}
+
+.btn-lang a{
+    font-size: 17px;
 }
 
 .dropdown{
@@ -115,6 +119,41 @@ body {
 .footer-base{
     height: 110px;
 }
+
+.footer-header{
+    text-align: center;
+    font-family: "Titillium Web", sans-serif;
+    font-weight: 400;
+    color: lightgrey;
+    margin-top: 10px;
+}
+
+.connect-icons{
+    width: 100%;
+    text-align: center;
+    padding-inline-start: 0;
+}
+
+.connect-icons li{
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.connect-icons li i{
+    color: #fafafa;
+    background: #00a8ec;
+    font-size: 18px;
+    /* Circle Icon Idea Inspired by Matt Rudge */
+    width: 35px;
+    height: 35px;
+    padding: 13px 0px;
+    border: 1px solid white;
+    border-radius: 50%;
+    line-height: 7px;
+    text-align: center;
+}
+
 
 /* --------------------------Media Query */
 

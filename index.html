@@ -12,6 +12,7 @@
 		integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css"
 		integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css" type="text/css">
 	<link rel="stylesheet" href="assets/css/style.css" type="text/css">
 
 	<title>My Furry Friend | Home Page</title>
@@ -64,7 +65,6 @@
 	</div>
 	<!-- / .Navigation Bar -->
 
-
 	<!-- Footer -->
 	<footer class="container-fluid footer-base">
 		<div class="container">
@@ -72,29 +72,29 @@
 
 				<!-- Social Media Column -->
 				<div class="col col-10 col-sm-5 col-md-4">
-                    <h2>Connect With Us</h2>
-                    <ul>
+                    <h4 class="footer-header">Connect With Us</h4>
+                    <ul class="connect-icons">
                         <li>
-                            <a href="https://www.facebook.com" target="_blank">
-                                <i class="fab fa-facebook-f"></i>
+                            <a href="https://www.facebook.com" target="_blank" class="hvr-icon-float">
+                                <i class="fab fa-facebook-f hvr-icon"></i>
                             </a>
                         </li>
                             
                         <li>
-                            <a href="https://twitter.com/" target="_blank">
-                                <i class="fab fa-twitter"></i>
+                            <a href="https://twitter.com/" target="_blank" class="hvr-icon-float">
+                                <i class="fab fa-twitter hvr-icon"></i>
                             </a>
                         </li>
                             
                         <li>
-                            <a href="https://www.instagram.com/" target="_blank">
-                                <i class="fab fa-instagram"></i>
+                            <a href="https://www.instagram.com/" target="_blank" class="hvr-icon-float">
+                                <i class="fab fa-instagram hvr-icon"></i>
                             </a>
                         </li>
 
                         <li>
-                            <a href="mailto:contact@myfurryfriend.ie?subject=Hi Friends!" target="_blank">
-                                <i class="far fa-envelope"></i>
+                            <a href="mailto:contact@myfurryfriend.ie?subject=Hi Friends!" target="_blank" class="hvr-icon-float">
+                                <i class="far fa-envelope hvr-icon"></i>
                             </a>
                         </li>
                     </ul>
@@ -104,7 +104,15 @@
 
 				<!-- Newsletter Subscription Column -->
 				<div class="col col-10 col-sm-5 col-md-4">
-					Newsletter
+					<h4 class="footer-header">Subscribe to our Newsletter</h4>
+                    <form class="sub-form" action="">
+                        <div class="form-group">
+                            <label for="exampleInputEmail1" class="sub-label">Email:</label>
+                            <input type="email" class="form-control sub-box" id="exampleInputEmail1" placeholder="Enter Email Address" aria-describedby="emailHelp" required>
+                            <small id="" class="form-text text-muted">We'll never share your email with anyone else.</small>
+                        </div>
+                    </form>
+
 				</div>
 				<!-- / .Newsletter Subscription Column -->
 
