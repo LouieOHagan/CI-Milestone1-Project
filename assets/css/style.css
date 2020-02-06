@@ -18,6 +18,10 @@
     border-color: #009ad6;
 }
 
+.footer-base{
+    background-color: #00a8ec;
+}
+
 /* --------------------------Special Padding/Margin */
 
 body {
@@ -102,12 +106,15 @@ body {
 }
 
 /* --------------------------Footer */
-.col-4, .col-2{
+.col{
     height: 100px;
     background-color: red;
     margin: auto;
 }
 
+.footer-base{
+    height: 110px;
+}
 
 /* --------------------------Media Query */
 
