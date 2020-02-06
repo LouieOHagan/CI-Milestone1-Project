@@ -16,6 +16,7 @@
 .btn-blue:hover{
     background-color: #009ad6;
     border-color: #009ad6;
+    color: white;
 }
 
 .footer-base{
@@ -34,6 +35,20 @@ body {
 .container-fluid{
     padding: 0;
 }
+
+#newsletter-header{
+    margin-bottom: 0;
+}
+
+.btn-row{
+    padding-left: 10px;
+    padding-right: 3px;
+}
+
+.box-row{
+    padding-right: 0;
+}
+
 
 /* --------------------------Buttons */
 
@@ -70,7 +85,18 @@ body {
     background-color: #009ad6;
 }
 
+.btn-sub{
+    border-radius: 6px;
+    border-color: white;
+    color: #fff;
+    background-color: #00a8ec;
+}
 
+.btn-sub:hover{
+    border-radius: 6px;
+    color: #fff;
+    background-color: #009ad6;
+}
 
 /* --------------------------Navigation Bar */
 
@@ -111,13 +137,14 @@ body {
 
 /* --------------------------Footer */
 .col{
-    height: 100px;
+    height: 125px;
     background-color: red;
     margin: auto;
+    margin-bottom: 10px;
 }
 
 .footer-base{
-    height: 110px;
+    height: 160px;
 }
 
 .footer-header{
@@ -125,13 +152,14 @@ body {
     font-family: "Titillium Web", sans-serif;
     font-weight: 400;
     color: lightgrey;
-    margin-top: 10px;
+    margin-top: 11px;
 }
 
 .connect-icons{
     width: 100%;
     text-align: center;
     padding-inline-start: 0;
+    margin: 20px 0px;
 }
 
 .connect-icons li{
@@ -152,6 +180,18 @@ body {
     border-radius: 50%;
     line-height: 7px;
     text-align: center;
+}
+ 
+.sub-box{
+    height: 29px;
+    font-size: 13px;
+    margin: 0 auto;
+}
+
+.sub-label{
+    color: white;
+    margin: 0;
+    font-size: 14px;
 }
 
 
@@ -179,6 +219,18 @@ body {
 @media (max-width: 992px) {
     .navbar-expand-md .navbar-nav {
         margin: 0 auto;
+    }
+
+    .footer-header{
+        font-size: 22px;
+    }
+
+    .btn-row{
+        padding-left: 5px;
+    }
+
+    .box-row{
+        padding-left: 8px;
     }
 } 
 
