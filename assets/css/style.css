@@ -170,7 +170,7 @@ a:hover{
 .connect-icons li{
     text-decoration: none;
     display: inline-block;
-    margin-right: 10px;
+    margin: 0 5px;
 }
 
 .connect-icons li i{
@@ -219,10 +219,9 @@ a:hover{
 }
 
 .name{
-    border-bottom: 3px solid rgba(255, 145, 0, 0.925);
+    border-bottom: 3px solid #fafafa;
     border-radius: 10%;
 }
-
 
 /* --------------------------Media Query */
 
@@ -232,7 +231,7 @@ a:hover{
     }
 
     .footer-header{
-        font-size: 22px;
+        font-size: 21px;
     }
 
     .btn-row{
