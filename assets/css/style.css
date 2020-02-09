@@ -71,6 +71,10 @@ a:hover{
     margin-bottom: 50px;
 }
 
+.card-body{
+    padding-bottom: 0;
+}
+
 /* --------------------------Buttons */
 
 .btn-lang{
@@ -265,7 +269,7 @@ a:hover{
     letter-spacing: 2px;
 }
 
-.section-header i{
+.icon-blue {
     font-size: 75px;
     color: #00a8ec;
     padding-bottom: 15px;
@@ -297,23 +301,26 @@ a:hover{
 .general-card{
     width: 18rem;
     margin-bottom: 20px;
+    height: 23rem;
 }
 
 .redirect-card{
-    text-align: justify;
+    text-align: center;
     margin: 0 auto;
     margin-top: 50px;
     border: 1px solid rgba(133, 133, 133, 0.329);
     box-shadow: 1.5px 1.5px 4px 1px rgba(133, 133, 133, 0.486);
 }
 
-.redirect-card i{
-    font-size: 75px;
-    color: #00a8ec;
-    padding-bottom: 15px;
-    padding-top: 5px;
-    text-align: center;
+.redirect-card p{
+    text-align: justify;
+    padding: 0 20px;
 }
+
+.card-button .btn-blue{
+    width: 40%;
+}
+
 
 /* --------------------------Walk With Us Page */
 
