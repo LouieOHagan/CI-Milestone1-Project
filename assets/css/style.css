@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:400,600|Titillium+Web:200,300,400,600');
 
+
 /* --------------------------Colours */
 
 .nav-colour {
@@ -260,7 +261,7 @@ a:hover{
     position: absolute;
     top: 9vh;
     left: 10vw;
-    padding: 80px 0px;
+    padding: 56px 0px;
     height: 350px;
     width: 350px;
     border: 1px solid rgba(0, 0, 0, 0.3);
@@ -268,13 +269,13 @@ a:hover{
     border-radius: 50%;
     text-align: center;
 
-    box-shadow: 2px 1.5px 3px 3px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 1.5px 6px 3px rgba(0, 0, 0, 0.3);
 }
 
 .head-text .btn-blue{
     margin-top: 5px; 
     width: 40%;
-    padding: 8px 0;
+    padding: 10px 0;
 }
 
 .section-header{
