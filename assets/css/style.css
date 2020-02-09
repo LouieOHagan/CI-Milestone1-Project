@@ -289,20 +289,22 @@ a:hover{
     max-width: 250px;
     border: 4px solid #00a8ec;
     border-radius: 50%;
-    margin-top: 40px; 
+    margin-top: 40px;   
 }
 
 /* --------------------------Cards */
 
 .general-card{
     width: 18rem;
-    margin: 0 auto;
+    margin-bottom: 20px;
 }
 
 .redirect-card{
     text-align: justify;
     margin: 0 auto;
-    
+    margin-top: 50px;
+    border: 1px solid rgba(133, 133, 133, 0.329);
+    box-shadow: 1.5px 1.5px 4px 1px rgba(133, 133, 133, 0.486);
 }
 
 .redirect-card i{
