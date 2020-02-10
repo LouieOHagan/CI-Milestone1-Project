@@ -351,6 +351,7 @@ a:hover{
     border-top: 3px solid #00a8ec;
     margin: 0 auto;
     width: 50%;
+    border-radius: 50%;
 }
 
 .location-card .card-body .card-title{
@@ -383,7 +384,17 @@ a:hover{
     text-align: center;
     font-size: 1.5rem;
     margin: 15px auto 40px auto;
-    /* margin-bottom: 50px; */
+}
+
+.section-header hr{
+    width: 20%;
+    border-top: 4px solid #00a8ec;
+    border-radius: 50%;
+}
+
+.why-walk .icon-blue{
+    font-size: 40px;
+    padding: 0;
 }
 
 /* --------------------------Our Favourites Page */
