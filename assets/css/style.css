@@ -315,32 +315,50 @@ a:hover{
     font-size: 1.25rem;
     text-align: justify;
     width: 76%;
-    margin: 1rem auto;
+    margin: 0 auto;
+    margin-top: 30px;
 }
 
 /* --------------------------Cards */
 
 .general-card{
     width: 18rem;
-    margin-bottom: 20px;
     height: 23rem;
-}
-
-.redirect-card{
     text-align: center;
-    margin: 0 auto;
-    margin-top: 50px;
+    margin: 50px auto 20px auto;
     border: 1px solid rgba(133, 133, 133, 0.329);
     box-shadow: 1.5px 1.5px 4px 1px rgba(133, 133, 133, 0.486);
 }
 
-.redirect-card p{
+.general-card p{
     text-align: justify;
     padding: 0 20px;
 }
 
 .card-button .btn-blue{
     width: 40%;
+}
+
+.location-card .card-body{
+    padding: 0.5rem 1.5rem;
+}
+
+.location-card .card-body hr{
+    border-top: 3px solid #00a8ec;
+    margin: 0 auto;
+    width: 50%;
+}
+
+.location-card .card-body .card-title{
+    margin-bottom: .4rem;
+}
+
+.location-card .card-body strong{
+    color: #00a8ec;
+}
+
+.location-card p{
+    text-align: left;
 }
 
 
