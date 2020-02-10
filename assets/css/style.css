@@ -368,6 +368,24 @@ a:hover{
 
 /* --------------------------Walk With Us Page */
 
+.wwu-image{
+    height: 60vh;
+    background: url(../images/wwu-image.jpg) no-repeat right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.contact-redirect .btn-blue{
+    display: block;
+    width: 175px;
+    text-align: center;
+    font-size: 1.5rem;
+    margin: 15px auto 40px auto;
+    /* margin-bottom: 50px; */
+}
+
 /* --------------------------Our Favourites Page */
 
 /* --------------------------Contact Us Page */
