@@ -249,7 +249,7 @@ a:hover{
 
 .home-image{
     height: 60vh;
-    background: url(../images/home-image.jpg) no-repeat right fixed;
+    background: url(../images/home-image2.jpg) no-repeat right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -309,6 +309,13 @@ a:hover{
     border: 4px solid #00a8ec;
     border-radius: 50%;
     margin-top: 40px;   
+}
+
+.quotes {
+    font-size: 1.25rem;
+    text-align: justify;
+    width: 76%;
+    margin: 1rem auto;
 }
 
 /* --------------------------Cards */
