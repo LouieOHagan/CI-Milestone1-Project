@@ -295,7 +295,7 @@ a:hover{
     padding-top: 10px;
 }
 
-.intro{
+.top-tab{
     margin-top: 70px;
 }
 
@@ -398,6 +398,15 @@ a:hover{
 }
 
 /* --------------------------Our Favourites Page */
+
+.of-image{
+    height: 60vh;
+    background: url(../images/of-image.jpg) no-repeat right fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 /* --------------------------Contact Us Page */
 
