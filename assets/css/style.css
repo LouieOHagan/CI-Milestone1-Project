@@ -249,7 +249,7 @@ a:hover{
 
 .home-image{
     height: 60vh;
-    background: url(../images/home-image2.jpg) no-repeat right fixed;
+    background: url(../images/home-image.jpg) no-repeat right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
