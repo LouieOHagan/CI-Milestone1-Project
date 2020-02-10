@@ -378,6 +378,10 @@ a:hover{
     background-size: cover;
 }
 
+.wwu-text{
+    padding: 110px 0px;
+}
+
 .contact-redirect .btn-blue{
     display: block;
     width: 175px;
@@ -406,6 +410,14 @@ a:hover{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.of-text h1,
+.of-text h2{
+    font-size: 35px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 5px 0px;
 }
 
 /* --------------------------Contact Us Page */
