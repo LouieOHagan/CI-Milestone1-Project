@@ -68,6 +68,10 @@ a:hover{
     margin-top: 150px;
 }
 
+.location-container .new-tab{
+    margin-top: 50px; 
+}
+
 .redirects{
     margin-bottom: 50px;
 }
