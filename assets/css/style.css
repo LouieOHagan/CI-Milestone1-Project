@@ -68,7 +68,7 @@ a:hover{
     margin-top: 150px;
 }
 
-.location-container .new-tab{
+.card-container .new-tab{
     margin-top: 50px; 
 }
 
@@ -364,6 +364,10 @@ a:hover{
 
 .location-card p{
     text-align: left;
+}
+
+.fav-card img{
+    border-bottom: 2px solid rgba(133, 133, 133, 0.329);
 }
 
 
