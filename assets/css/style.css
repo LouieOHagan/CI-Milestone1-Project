@@ -316,8 +316,8 @@ a:hover{
 .testimonials img{
     display: block;
     margin: 0 auto;
-    max-height: 250px;
-    max-width: 250px;
+    height: 250px;
+    width: 250px;
     border: 4px solid #00a8ec;
     border-radius: 50%;
     margin-top: 40px;   
@@ -460,7 +460,7 @@ a:hover{
 .contact-input{
     width: 100%;
     padding: 5px;
-    border: 1px solid #00a8ec;
+    border: 1px solid #00a9ec;
     height: 39px;
     font-size: 1rem;
 }
@@ -541,6 +541,11 @@ a:hover{
         -o-background-size: cover;
         background-size: cover;
     }
+
+    .testimonials img{
+        height: 200px;
+        width: 200px;
+    }
 } 
 
 @media (max-width: 768px) {
@@ -564,6 +569,11 @@ a:hover{
         width: 30px;
         height: 30px;
         line-height: 3px;
+    }
+
+    .testimonials img{
+        height: 250px;
+        width: 250px;
     }
 
 }
