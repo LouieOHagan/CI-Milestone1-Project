@@ -80,6 +80,10 @@ a:hover{
     padding-bottom: 0;
 }
 
+.contact-center{
+    margin: 0 auto;
+}
+
 /* --------------------------Buttons */
 
 .btn-lang{
@@ -435,10 +439,6 @@ a:hover{
 
 /* --------------------------Contact Us Page */
 
-.contact-form-spacer{
-    margin-top: 30px;
-}
-
 .contact-image{
     height: 60vh;
     background: url(../images/contact-image.jpg) no-repeat center fixed;
@@ -453,20 +453,32 @@ a:hover{
 }
 
 .contact-input{
-    margin: 0 auto;
+
     width: 100%;
     padding: 5px;
     border: 1px solid #00a8ec;
-}
-
-.contact-input:after{
-    border: 1px solid red;
 }
 
 .contact-label{
     text-align: left;
     background: transparent;
     padding: 5px 0 0;
+    padding-right: 35px;
+}
+
+.contact-label i{
+    font-size: 8px;
+    vertical-align: middle;
+    color: rgb(245, 21, 21);
+    padding-bottom: 4px;
+    padding-left: 3px;
+}
+
+.contact-center .btn-submit{
+    width: 175px;
+    text-align: center;
+    font-size: 1.3rem;
+    margin: 15px auto;
 }
 
 
