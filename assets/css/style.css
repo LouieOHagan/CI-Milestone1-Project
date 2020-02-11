@@ -133,6 +133,10 @@ a:hover{
     background-color: #009ad6;
 }
 
+.contact-alt{
+    padding-top: 50px;
+}
+
 /* --------------------------Navigation Bar */
 
 .logo{
@@ -407,7 +411,8 @@ a:hover{
     margin: 15px auto 20px auto;
 }
 
-.section-header hr{
+.section-header hr,
+.contact-alt hr{
     width: 20%;
     border-top: 4px solid #00a8ec;
     border-radius: 50%;
@@ -453,10 +458,15 @@ a:hover{
 }
 
 .contact-input{
-
     width: 100%;
     padding: 5px;
     border: 1px solid #00a8ec;
+    height: 39px;
+    font-size: 1rem;
+}
+
+.contact-center textarea{
+    height: initial;
 }
 
 .contact-label{
@@ -474,13 +484,29 @@ a:hover{
     padding-left: 3px;
 }
 
+.submit-text{
+    width: 100%;
+    margin: 0;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 1.3rem;
+    font-weight: 300;
+    color: grey;
+}
+
 .contact-center .btn-submit{
     width: 175px;
     text-align: center;
     font-size: 1.3rem;
-    margin: 15px auto;
+    margin: 10px auto;
 }
 
+.contact-alt h3{
+    text-align: center;
+    font-size: 30px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+}
 
 
 /* --------------------------Media Query */
