@@ -435,6 +435,14 @@ a:hover{
 
 /* --------------------------Contact Us Page */
 
+.contact-image{
+    height: 60vh;
+    background: url(../images/contact-image.jpg) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
 
 /* --------------------------Media Query */
 
