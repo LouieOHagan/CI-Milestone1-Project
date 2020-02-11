@@ -435,6 +435,10 @@ a:hover{
 
 /* --------------------------Contact Us Page */
 
+.contact-form-spacer{
+    margin-top: 30px;
+}
+
 .contact-image{
     height: 60vh;
     background: url(../images/contact-image.jpg) no-repeat center fixed;
@@ -443,6 +447,29 @@ a:hover{
     -o-background-size: cover;
     background-size: cover;
 }
+
+.contact-form{
+    display: block;
+}
+
+.contact-input{
+    margin: 0 auto;
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #00a8ec;
+}
+
+.contact-input:after{
+    border: 1px solid red;
+}
+
+.contact-label{
+    text-align: left;
+    background: transparent;
+    padding: 5px 0 0;
+}
+
+
 
 /* --------------------------Media Query */
 
