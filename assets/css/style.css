@@ -542,6 +542,29 @@ a:hover{
         background-size: cover;
     }
 
+    .general-card {
+        width: 14rem;
+        height: 19rem;
+    }
+
+    .card-title {
+        margin-bottom: .4rem;
+     }
+
+     .card-title .icon-blue {
+        font-size: 55px;
+        padding-bottom: 10px;
+        padding-top: 0px;
+    }
+
+    .general-card p {
+        padding: 0 10px;
+        font-size: 15px;
+    }
+
+    .card-button .btn-blue {
+        width: 45%;
+    }
 } 
 
 @media (max-width: 768px) {
@@ -567,7 +590,9 @@ a:hover{
         line-height: 3px;
     }
 
-
+    .fav-card-middle{
+        margin: auto;
+    }
 }
 
 @media (max-width:576px){
