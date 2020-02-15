@@ -511,6 +511,38 @@ a:hover{
 
 /* --------------------------Media Query */
 
+@media screen and (max-width: 992px) and (min-width: 576px){
+    .general-card {
+        width: 14rem;
+        height: 19rem;
+    }
+
+    .card-title {
+        margin-bottom: .4rem;
+     }
+
+     .card-title .icon-blue {
+        font-size: 55px;
+        padding-bottom: 10px;
+        padding-top: 0px;
+    }
+
+    .general-card p {
+        padding: 0 10px;
+        font-size: 15px;
+    }
+
+    .card-button .btn-blue {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width: 768px) and (min-width: 576px){
+    .fav-card-middle .general-card{
+        margin-top: 25px;
+    }
+}
+
 @media (max-width: 992px) {
     .navbar-expand-md .navbar-nav {
         margin: 0 auto;
@@ -542,29 +574,7 @@ a:hover{
         background-size: cover;
     }
 
-    .general-card {
-        width: 14rem;
-        height: 19rem;
-    }
-
-    .card-title {
-        margin-bottom: .4rem;
-     }
-
-     .card-title .icon-blue {
-        font-size: 55px;
-        padding-bottom: 10px;
-        padding-top: 0px;
-    }
-
-    .general-card p {
-        padding: 0 10px;
-        font-size: 15px;
-    }
-
-    .card-button .btn-blue {
-        width: 45%;
-    }
+    
 } 
 
 @media (max-width: 768px) {
@@ -593,6 +603,7 @@ a:hover{
     .fav-card-middle{
         margin: auto;
     }
+
 }
 
 @media (max-width:576px){
