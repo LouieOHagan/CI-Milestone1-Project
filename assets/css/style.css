@@ -508,9 +508,9 @@ a:hover{
     margin-bottom: 20px;
 }
 
-
 /* --------------------------Media Query */
 
+/* Active for screen sizes between 992px and 576px */
 @media screen and (max-width: 992px) and (min-width: 576px){
     .general-card {
         width: 14rem;
@@ -535,14 +535,45 @@ a:hover{
     .card-button .btn-blue {
         width: 45%;
     }
-}
 
-@media screen and (max-width: 768px) and (min-width: 576px){
-    .fav-card-middle .general-card{
-        margin-top: 25px;
+    .fav-card p {
+        margin: 5px 0 0;
+    }
+
+    .fav-container .card-button .btn-blue {
+        width: 39%;
+        font-size: 15px;
+        padding: 4px 0;
+        margin-top: 0;
     }
 }
 
+/* Active for screen sizes between 992px and 768px */
+@media screen and (max-width: 992px) and (min-width: 768px){
+    .fav-container .general-card {
+        width: 14.5rem;
+        height: 20.5rem;
+    }
+
+    .fav-container .card-button .btn-blue{
+        margin-top: 5px;
+    }
+}
+
+/* Active for screen sizes between 767px and 576px */
+/* Changed to 767px to fix bug that put card with .fav-card-middle class out of line on iPad view*/
+@media screen and (max-width: 767px) and (min-width: 576px){
+    .fav-card-middle .general-card{
+        margin-top: 25px;
+    }
+
+    .fav-container .general-card {
+        width: 16rem;
+        height: 21rem;
+    }
+}
+
+/* Active for screen sizes under 992px */
 @media (max-width: 992px) {
     .navbar-expand-md .navbar-nav {
         margin: 0 auto;
@@ -573,10 +604,9 @@ a:hover{
         -o-background-size: cover;
         background-size: cover;
     }
-
-    
 } 
 
+/* Active for screen sizes under 768px */
 @media (max-width: 768px) {
     .logo{
         margin: 0;
@@ -606,6 +636,7 @@ a:hover{
 
 }
 
+/* Active for screen sizes under 576px */
 @media (max-width:576px){
     .nav-link:hover {
         width: 50%;
