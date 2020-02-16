@@ -4,11 +4,11 @@
 /* --------------------------Colours */
 
 .nav-colour {
-    background-color: #f8f9fa!important;
+    background-color: #fcfdfd!important;
 }
 
 .btn-blue{
-    color: #fff;
+    color: #f7f7f7;
     background-color: #00a8ec;
     border-color: #00a8ec;
     border-radius: 35px;
@@ -17,7 +17,7 @@
 .btn-blue:hover{
     background-color: #009ad6;
     border-color: #009ad6;
-    color: white;
+    color: #f7f7f7;
 }
 
 .footer-base{
@@ -98,11 +98,11 @@ a:hover{
 .dropdown{
     list-style: none;
     text-decoration: none;
-    color: white;
+    color: #f7f7f7;
 }
 
 .dropdown a{
-    color: white;
+    color: #f7f7f7;
 }
 
 .dropdown-menu{
@@ -111,25 +111,25 @@ a:hover{
 }
 
 .dropdown-menu a{
-    color: white;
+    color: #f7f7f7;
 }
 
 .dropdown-menu a:hover{
-    color: white;
+    color: #f7f7f7;
     background-color: #009ad6;
 }
 
 .btn-sub{
     border-radius: 6px;
-    border-color: white;
-    color: #fff;
+    border-color: #f7f7f7;
+    color: ##f7f7f7;
     background-color: #00a8ec;
     font-weight: 600;
 }
 
 .btn-sub:hover{
     border-radius: 6px;
-    color: #fff;
+    color: #f7f7f7;
     background-color: #009ad6;
 }
 
@@ -190,7 +190,7 @@ a:hover{
     text-align: center;
     font-family: "Titillium Web", sans-serif;
     font-weight: 400;
-    color: #fff;
+    color: #f7f7f7;
     margin-top: 11px;
 }
 
@@ -208,14 +208,14 @@ a:hover{
 }
 
 .connect-icons li i{
-    color: #fafafa;
+    color: #f7f7f7;
     background: #00a8ec;
     font-size: 18px;
     /* Circle Icon Idea Inspired by Matt Rudge */
     width: 35px;
     height: 35px;
     padding: 13px 0px;
-    border: 1px solid white;
+    border: 1px solid #f7f7f7;
     border-radius: 50%;
     line-height: 7px;
     text-align: center;
@@ -232,7 +232,7 @@ a:hover{
 }
 
 .sub-label{
-    color: white;
+    color: #f7f7f7;
     margin: 0;
     margin-left: 4.1%;
     font-size: 14px;
@@ -249,11 +249,11 @@ a:hover{
 .creator i{
     padding: 0 2px;
     font-style: normal;
-    color: #fff;
+    color: #f7f7f7;
 }
 
 .name{
-    border-bottom: 3px solid #fafafa;
+    border-bottom: 3px solid #f7f7f7;
     border-radius: 10%;
 }
 
@@ -269,7 +269,7 @@ a:hover{
 }
 
 .head-text{
-    color: #fafafa;
+    color: #f7f7f7;
     position: absolute;
     top: 9vh;
     left: 10vw;
