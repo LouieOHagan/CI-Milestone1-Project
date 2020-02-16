@@ -456,11 +456,15 @@ a:hover{
 
 .contact-image{
     height: 60vh;
-    background: url(../images/contact-image.jpg) no-repeat center fixed;
+    background: url(../images/contact-image.jpg) no-repeat right fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+.contact-image .head-text{
+    background: rgba(0, 0, 0, 0.35);
 }
 
 .contact-form{
