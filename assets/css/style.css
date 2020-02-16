@@ -331,6 +331,10 @@ a:hover{
     margin-top: 30px;
 }
 
+.intro .section-header hr{
+    width: 10rem;
+}
+
 /* --------------------------Cards */
 
 .general-card{
