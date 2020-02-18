@@ -355,6 +355,15 @@ a:hover{
     padding: 0 20px;
 }
 
+.facebook-pick p{
+    font-size: 1rem;
+}
+
+.facebook-pick span{
+    text-align: center;
+    margin: 0 auto;
+}
+
 .card-button .btn-blue{
     width: 40%;
 }
@@ -413,8 +422,9 @@ a:hover{
 
 .wwu-p{
     margin: 0 auto;
-    text-align: justify;
-    width: 90%;
+    text-align: center;
+    width: 85%;
+    padding: 0 0 15px;
 }
 
 .contact-redirect .btn-blue{
@@ -540,7 +550,7 @@ a:hover{
      }
 
      .card-title .icon-blue {
-        font-size: 55px;
+        font-size: 67px;
         padding-bottom: 10px;
         padding-top: 0px;
     }
@@ -631,6 +641,10 @@ a:hover{
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+    }
+
+    .wwu-p{
+        width: 90%;
     }
 } 
 
