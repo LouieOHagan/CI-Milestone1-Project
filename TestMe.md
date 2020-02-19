@@ -1,39 +1,36 @@
 # **My Furry Friend Responsive Website Project**
 
-
-## <span style="color: #414445; font-size: 15px;">Milestone Project 1 for Code Institutes Full Stack Software Development Course.</span>
-***
 This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
 
 The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us", each of which have 3 variants. As My Furry Friends is operational in 3 countries, the website will come with a dropdown bar to allow users to change their location and language, the website content will be updated retrospectively for ease of use.
  
 ## UX
 
-### - User stories
+* ### User stories
 
 
-### - Strategy
+* ### Strategy
 
 
-### - Scope
+* ### Scope
 
 
-### - Structure
+* ### Structure
 
 
-### - Skeleton
-* [Home Page Wireframe](https://)   
+* ### Skeleton
+    * Home Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/1.%20Index.html%20Wireframe.jpg)   
 
-* [Walk With Us Page Wireframe](https://)
+    * Walk With Us Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/2.%20walk-with-us.html%20Wireframe.jpg)
 
-* [Our Favourites Page Wireframe](https://)
+    * Our Favourites Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/3.%20Our%20Favourites%20Wireframe.jpg)
 
-* [Contact Us Page Wireframe](https://)
+    * Contact Us Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/4.%20Contact%20Us%20Wireframe.jpg)
 
-Click [Here](https://) for Document containing all Wireframes in .pdf format.
+    * Click [Here](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/All%20Wireframes%20Document.pdf) for Document containing all Wireframes in .pdf format.
 
 
-### - Surface
+* ### Surface
 
 
 ## Features
@@ -53,7 +50,30 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ## Technologies Used
 
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+### Languages Used
+
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+1. [Boostrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/) 
+    - popper.js and jQuery within 
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Used 
+1. [Google Fonts:](https://fonts.google.com/)
+    - Used 
+1. [Font Awesome:](https://fontawesome.com/)
+    - Used 
+1. [jQuery:](https://jquery.com/)
+    - Used 
+1. [Gitpod:](https://www.gitpod.io/)
+    - Used 
+1. [GitHub:](https://github.com/)
+    - Used 
+1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
+    - Used 
+1. [Balsamiq:](https://balsamiq.com/)
+    - Used 
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
@@ -92,6 +112,8 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 
 ## Credits
+
+### Code
 
 ### Content
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
