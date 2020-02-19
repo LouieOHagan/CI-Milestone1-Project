@@ -66,14 +66,17 @@ In addition, you may also use this section to discuss plans for additional featu
     - Used 
 1. [jQuery:](https://jquery.com/)
     - Used 
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [Gitpod:](https://www.gitpod.io/)
-    - Used 
+    - Gitpod was the primary IDE used throughout the entirety of the project. 
 1. [GitHub:](https://github.com/)
-    - Used 
+    - GitHub is used to store the projects code after being pushed from Git.
+    - The website is also deployed using GitHub Pages.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Used 
 1. [Balsamiq:](https://balsamiq.com/)
-    - Used 
+    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/TestMe.md#skeleton) during the design process. 
 
 - [JQuery](https://jquery.com)
     - The project uses **JQuery** to simplify DOM manipulation.
