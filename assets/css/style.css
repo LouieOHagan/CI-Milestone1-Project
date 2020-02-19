@@ -427,6 +427,13 @@ a:hover{
     padding: 0 0 15px;
 }
 
+.wwu-muted{
+    font-size: 0.95rem;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+    padding: 0;
+}
+
 .contact-redirect .btn-blue{
     display: block;
     width: 175px;
