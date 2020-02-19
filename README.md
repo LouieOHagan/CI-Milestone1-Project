@@ -35,8 +35,44 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 
 ## Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+##### Site Wide
+
+The site is made up of 4 pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us". 
+All pages have 3 main components in common, a Navigation bar, hero image and footer.
+
+- **The Navigation Bar**
+    - The navigation bar is fully responsive and is aesthetically pleasing on all platforms. 
+    
+        - In desktop view (screen width size of 992px and above)the logo is placed at the very left hand side of the navigation bar followed
+        by the links to the other pages. There is a blue rounded button located to the very right hand side
+        of the bar with the format of "Country (Language)" which can be used to switch where you are from which 
+        will update the walking locations and language of the website (if necessary).
+
+        - In tablet view (screen width sizes between 992px to 767px) the logo remains over the left hand side
+        and the Location button remains over the right hand side of the navigation bar. The links to other pages are 
+        centered and remain in the middle of the navigation bar until the screensize hits the 767px breakpoint.
+
+        - In mobile & smaller screen sized devices (screen width sizes under 767px) the navigation bar remains in place
+        with the logo over the left hand side however the button and the page links disappear and can be found inside of the
+        burger menu icons. When pressed, the navigation bar drops down pushing all content beneath down with it while exposing
+        the page links and Location button.
+
+- **Hero Images**
+    - A
+
+- **The Footer**
+    - A
+
+##### Home Page
+
+##### Walk With Us Page
+
+##### Our Favourites Page
+
+##### Contact Us Page
  
+
+
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
 - ...
@@ -57,15 +93,15 @@ In addition, you may also use this section to discuss plans for additional featu
 
 ### Frameworks, Libraries & Programs Used
 1. [Boostrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/) 
-    - popper.js and jQuery within 
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
 1. [Google Fonts:](https://fonts.google.com/)
-    - Google fonts was used to import the 'Titillium Web' font in to the style.css file which is used on all pages throughout the project.
+    - Google fonts were used to import the 'Titillium Web' font into the style.css file which is used on all pages throughout the project.
 1. [Font Awesome:](https://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [jQuery:](https://jquery.com/)
-    - Used 
+    - jQuery came with Bootstrap to make the navbar responsive but was also used for the smooth scroll function in JavaScript. 
 1. [Git](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [Gitpod:](https://www.gitpod.io/)
