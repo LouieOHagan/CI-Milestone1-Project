@@ -35,7 +35,7 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 
 ## Features
 
-##### Site Wide
+**Site Wide**
 
 The site is made up of 4 pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us". 
 All pages have 3 main components in common, a Navigation bar, hero image and footer and all share
@@ -46,7 +46,7 @@ the content most relevant to the page and the bottom section is some type of red
 doesnt get to the bottom of the page and feel isoltated and just close the tab. The users are always offered somewhere
 new to go whether its to an external platform of the organisation eg Facebook page or to another page on the site.
 
-- **The Navigation Bar**
+- ##### The Navigation Bar
     - The navigation bar is fully responsive and is aesthetically pleasing on all platforms. 
     
         - In desktop view (screen width size of 992px and above) the logo is placed at the very left hand side of the navigation bar followed
@@ -63,7 +63,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
         burger menu icons. When pressed, the navigation bar drops down pushing all content beneath down with it while exposing
         the page links and Location button.
 
-- **Hero Images**
+- ##### Hero Images
     - There is a hero image on each of the 4 pages. All images take up 60% Viewport Height and have the same style, each have a white dog [to maintain the simplistic white theme] 
     on the right hand side of the screen with a plain background to ensure the dog is in focus. All images have also been given a gaussian
     blur overlay but the the blur over the dog has been erased to maintain the focus. To the left hand side
@@ -78,7 +78,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) both the dog in the image and the 
     circular container are centered along with the rest of the page content which is one section per row and is also centered. 
 
-- **The Footer**
+- ##### The Footer
     - The footer is made up of 4 main sections. Social Media Icons, Newsletter Subscription Input, copyright information and 
     the developer signature/information. The Social Media icons are located to the left hand side of the footer followed by the
     newsletter subscription section to the right. Underneath that row there is a second row in the footer which houses the 
@@ -91,9 +91,9 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     On the top of the footer in the first row are the social media icons, beneath them in the middle row is the newsletter subscription
     section followed by the copyright information and developer information at the bottom in the last row of the footer.
 
-##### Home Page
+**Home Page**
 
-- **Organization Information Section**
+- ##### Organization Information Section
     - In desktop view (screen width size of 992px and above) the design is simple. The section is split into two, the "About Us" section
     and the "What We Do ?" section. Above the title is a blue Font Awesome icon and below them is a blue horizontal rule that has a width of 10rem
     and a border width of 50% to give the shape it has. 
@@ -104,7 +104,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the 2 sections are stacked one on top of the other
     each taking up the full width of the screen and all content is fully responsive.
 
-- **Testimonials Section**
+- ##### Testimonials Section
     - In desktop view (screen width size of 992px and above) the section is split into 2 rows. The title is on top which has the styled horizontal
     rule underneath it which will be seen site wide under all section headers. All horizontal rules have a width of 15rem exc: the ones in the Organization Information 
     Section above. Underneath the header are three rounded images of a site user and their dog, each accompanied by their testimonial and name.
@@ -115,7 +115,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the middle image is displayed again, resulting in three images 
     stacked one on top of the other. The text for each image is also underneath its designated image.
 
-- **Redirection Section**
+- ##### Redirection Section
     - In desktop view (screen width size of 992px and above) the section is split in to two rows. The title is on top which has the styled horizontal
     rule underneath. The second row has three cards, offering the user three separate locations to try out. On the bottom of each card is a styled blue
     button that the user can click to go to their desired location.
@@ -127,9 +127,9 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     other to match the rest of the page style on small screen size devices.
 
 
-##### Walk With Us Page
+**Walk With Us Page**
 
-- **Why Walk With Us Information Section**
+- ##### Why Walk With Us Information Section
     - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
     styled horizontal rule underneath it. Underneath the section header there are three paragraphs of text which are centered in the row.
 
@@ -139,7 +139,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) again there is little change except for sizing but 
     once again the section is fully responsive.
 
-- **Walking Locations Section**
+- ##### Walking Locations Section
     - In desktop view (screen width size of 992px and above) the section is split into three rows overall which each contain 2 rows each, a header and a 
     row of three cards. The title is on top which has the styled horizontal rule underneath. The second row has three cards, showcasing seperate locations in
     the area that the title specifies eg Dublin Spots with three walking locations in Dublin. Each card has a picture of the location with text underneath
@@ -151,13 +151,13 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the other to match the rest 
     of the page style on small screen size devices.
 
-- **Redirection Section**
+- ##### Redirection Section
     - In all views there are three rows, the top two with text with a question/call to action. Underneath there is a blue styled button that will 
     redirect the user to the contact us page.
 
-##### Our Favourites Page
+**Our Favourites Page**
 
-- **Our Furry Friends Favourites Information Section**
+- ##### Our Furry Friends Favourites Information Section
     - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
     styled horizontal rule underneath it. Underneath the section header there is two paragraphs of text which are centered in the row.
 
@@ -167,7 +167,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) again there is little change except for sizing but 
     once again the section is fully responsive.
 
-- **Top Three's Section**
+- ##### Top Three's Section
     - In desktop view (screen width size of 992px and above) the section is split into three rows overall which each contain 2 rows each, a header and a 
     row of three cards. The title is on top which has the styled horizontal rule underneath. The second row has three cards, showcasing three of the favourite
     products in that specific section eg Top Three Foods. Each card has a picture of the product, with a short description of it underneath along with a blue 
@@ -180,7 +180,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the other to match the rest 
     of the page style on small screen size devices. 
 
-- **Redirection Section**
+- ##### Redirection Section
     - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
     styled horizontal rule underneath it. Underneath the section header there is card that has information about more cool items for your
     that can be found on the organisations Facebook page. This is a great incentive to get more members in to the facebook community to help
@@ -194,17 +194,17 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the card once again increases in size to maintain uniformity with the 
     rest of the cards on the page which increases in size as they are now stacked on top of eachother and only have 1 card per row.
 
-##### Contact Us Page
+**Contact Us Page**
 
 The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero image and footer.
-- **Contact Us Form Section**
+- ##### Contact Us Form Section
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
     - In mobile view & smaller screen sized devices (screen width sizes under 576px)
 
-- **Alternative Contact Section**
+- ##### Alternative Contact Section
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
