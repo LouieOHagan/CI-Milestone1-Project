@@ -75,7 +75,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - As the screen width size reduces the dog remains over the right handside of the screen while keeping the circular
     container to the right, briefly overlapping until the mobile view and small screen sized devices breakpoint is met.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px) both the dog in the image and the 
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) both the dog in the image and the 
     circular container are centered along with the rest of the page content which is one section per row and is also centered. 
 
 - **The Footer**
@@ -87,32 +87,44 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - The footer is fully responsive however there are no major changes other than the size of some objects until the size width size
     hits the mobile view. 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px) the footer is split from 2 rows in to 3 each taking up the full width of the screen. 
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the footer is split from 2 rows in to 3 each taking up the full width of the screen. 
     On the top of the footer in the first row are the social media icons, beneath them in the middle row is the newsletter subscription
     section followed by the copyright information and developer information at the bottom in the last row of the footer.
 
 ##### Home Page
 
 - **Orgnisation Information Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the design is simple. The section is split in to two, the "About Us" section
+    and the "What We Do ?" section. Above the title is a blue Font Awesome icon and below them is a blue horizontal rule that has a width of 10rem
+    and a border width of 50% to give the shape it has. 
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) it is the same as the desktop view but all content is fully responsive
+    to ensure it fits on the page and remains aesthetically pleasing. 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the 2 sections are stacked one on top of the other
+    each taking up the full width of the screen and all content is fully responsive.
 
 - **Testimonials Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split in to 2 rows. The title is on top which has the styled horizontal
+    rule underneath it which will be seen site wide under all section headers. All horizontal rules have a width of 15rem exc: the ones in the Orgnisation Information 
+    Section above. Underneath the header are three rounded images of a site user and thier dog, each accompanied by their testimonial and name.
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) the middle image is removed leaving only two images and their accompanying testimonials
+    to maintain a clean look as after testing three images didnt look well beside eachother at that sized screen.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the middle image is displayed again, resulting in three images 
+    stacked one on top of the other. The text for each image is also underneath its desingated image.
 
 - **Redirection Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split in to two rows. The title is on top which has the styled horizontal
+    rule underneath. The second row has three cards, offering the user three seperate locations to try out. On the bottom of each card is a styled blue
+    button that the user can click to go to their desired location.
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) the card tow turns in to two seperate rows which displays two cards on the top row
+    and the third card is centered underneath the other two cards. 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the 
+    other to match the rest of the page style on small screen size devices.
 
 
 ##### Walk With Us Page
@@ -122,21 +134,21 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
 
 - **Walking Locations Section**
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)  
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)  
 
 - **Redirection Section**
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) 
 
 ##### Our Favourites Page
 
@@ -145,21 +157,21 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
 
 - **Top Three's Section**
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)  
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)  
 
 - **Redirection Section**
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
 
 ##### Contact Us Page
 
@@ -169,14 +181,14 @@ The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
 
 - **Alternative Contact Section**
     - In desktop view (screen width size of 992px and above) 
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 767px)  
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px)  
 
 
 ### Existing Features
@@ -188,7 +200,13 @@ For some/all of your features, you may choose to reference the specific project 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### To Do List
-###### Last Updated: 02/20/20
+- Make Location/Language buttons work.
+- Modal popup after form is submitted on Contact Page.
+- Change all measurements from "px" to "rem".
+- Add small border radius to border for text input fields.
+- Add paw prints in between social icons and newsletter section on footer.
+- Put library code (eg bootstrap css file) in library folder so site not dependent on external sources.
+###### Last Updated: 17:39pm GMT - 02/20/20 
 
 ### Features Left to Implement
 - Another feature idea
