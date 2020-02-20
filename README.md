@@ -59,21 +59,31 @@ All pages have 3 main components in common, a Navigation bar, hero image and foo
 
 - **Hero Images**
     - There is a hero image on each of the 4 pages. All images take up 60% Viewport Height and have the same style, each have a white dog [to maintain the simplistic white theme] 
-    on the right handisde of the screen with a plain background to ensure the dog is in focus. All images have also been given a gaussian
+    on the right hand side of the screen with a plain background to ensure the dog is in focus. All images have also been given a gaussian
     blur overlay but the the blur over the dog has been erased to maintain the focus. To the left hand side
-    of each hero image there is a circluar container that houses call to action text along with a blue rounded button
+    of each hero image there is a circular container that houses call to action text along with a blue rounded button
     which matches the style of all buttons in the project. Each button is assigned to the first section of the page,
     so when clicked it will initiate the smooth scroll function found in the index.js file until it reaches its target location. 
     The function is set to complete the scroll in 800 milliseconds / 0.8 seconds.
 
-    - As the screen width size reduces the dog remains over the right handside of the screen while keeping the circluar
-    container to the right, briefly overlapping until the mobile view and small screen sized devices break point is met.
+    - As the screen width size reduces the dog remains over the right handside of the screen while keeping the circular
+    container to the right, briefly overlapping until the mobile view and small screen sized devices breakpoint is met.
 
     - In mobile view & smaller screen sized devices (screen width sizes under 767px) both the dog in the image and the 
-    circluar container are centered along with the rest of the page content which is one section per row and is also centered. 
+    circular container are centered along with the rest of the page content which is one section per row and is also centered. 
 
 - **The Footer**
-    - A
+    - The footer is made up of 4 main sections. Social Media Icons, Newsletter Subscription Input, copyright information and 
+    the developer signature/information. The Social Media icons are located to the left hand side of the footer followed by the
+    newsletter subscription section to the right. Underneath that row there is a second row in the footer which houses the 
+    copyright information for the organisation "My Furry Friend" along with the website developers information.
+
+    - The footer is fully responsive however there are no major changes other than the size of some objects until the size width size
+    hits the mobile view. 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px) the footer is split from 2 rows in to 3 each taking up the full width of the screen. 
+    On the top of the footer in the first row are the social media icons, beneath them in the middle row is the newsletter subscription
+    section followed by the copyright information and developer information at the bottom in the last row of the footer.
 
 ##### Home Page
 
@@ -92,6 +102,9 @@ All pages have 3 main components in common, a Navigation bar, hero image and foo
 For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
 
 In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+
+### To Do List
+###### Last Updated: 02/20/20
 
 ### Features Left to Implement
 - Another feature idea
