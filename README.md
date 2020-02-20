@@ -38,7 +38,13 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 ##### Site Wide
 
 The site is made up of 4 pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us". 
-All pages have 3 main components in common, a Navigation bar, hero image and footer.
+All pages have 3 main components in common, a Navigation bar, hero image and footer and all share
+the same basic structure in terms of the layout of sections (except the contact us page). 
+
+The pages start with text information, the second section is the main section of the page which contains
+the content most relevant to the page and the bottom section is some type of redirection so that the user 
+doesnt get to the bottom of the page and feel isoltated and just close the tab. The users are always offered somewhere
+new to go whether its to an external platform of the organisation eg Facebook page or to another page on the site.
 
 - **The Navigation Bar**
     - The navigation bar is fully responsive and is aesthetically pleasing on all platforms. 
@@ -87,12 +93,90 @@ All pages have 3 main components in common, a Navigation bar, hero image and foo
 
 ##### Home Page
 
+- **Orgnisation Information Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+
+- **Testimonials Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+
+- **Redirection Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
+
+
 ##### Walk With Us Page
+
+- **Why Walk With Us Information Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+
+- **Walking Locations Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)  
+
+- **Redirection Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px) 
 
 ##### Our Favourites Page
 
+- **Our Furry Friends Favourites Information Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+
+- **Top Three's Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)  
+
+- **Redirection Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+
 ##### Contact Us Page
- 
+
+The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero image and footer.
+- **Contact Us Form Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)
+
+- **Alternative Contact Section**
+    - In desktop view (screen width size of 992px and above) 
+
+    - In tablet view (screen width sizes between 992px to 767px) 
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px)  
 
 
 ### Existing Features
@@ -137,7 +221,7 @@ In addition, you may also use this section to discuss plans for additional featu
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to create the logo, resizing images and editing photos for the website. 
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/TestMe.md#skeleton) during the design process. 
+    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/CI-Milestone1-Project#skeleton) during the design process. 
 
 ## Testing
 
