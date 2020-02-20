@@ -35,7 +35,10 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 
 ## Features
 
-**Site Wide**
+
+### Current Pages & Features
+
+**1. Site Wide**
 
 The site is made up of 4 pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us". 
 All pages have 3 main components in common, a Navigation bar, hero image and footer and all share
@@ -91,7 +94,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     On the top of the footer in the first row are the social media icons, beneath them in the middle row is the newsletter subscription
     section followed by the copyright information and developer information at the bottom in the last row of the footer.
 
-**Home Page**
+**2. Home Page**
 
 - ##### Organization Information Section
     - In desktop view (screen width size of 992px and above) the design is simple. The section is split into two, the "About Us" section
@@ -127,7 +130,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     other to match the rest of the page style on small screen size devices.
 
 
-**Walk With Us Page**
+**3. Walk With Us Page**
 
 - ##### Why Walk With Us Information Section
     - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
@@ -155,7 +158,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In all views there are three rows, the top two with text with a question/call to action. Underneath there is a blue styled button that will 
     redirect the user to the contact us page.
 
-**Our Favourites Page**
+**4. Our Favourites Page**
 
 - ##### Our Furry Friends Favourites Information Section
     - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
@@ -194,7 +197,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the card once again increases in size to maintain uniformity with the 
     rest of the cards on the page which increases in size as they are now stacked on top of eachother and only have 1 card per row.
 
-**Contact Us Page**
+**5. Contact Us Page**
 
 The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero image and footer.
 - ##### Contact Us Form Section
@@ -212,14 +215,6 @@ The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero
 - ##### Alternative Contact Section
     - In all views there are two rows, both contain text adding that instead of filling out the form, an alternative method of contact would be contacting
     them on social media. Right below this section is the footer which contains links to all of the organisations social media accounts. 
-
-### Existing Features
-- Feature 1 - allows users X to achieve Y, by having them fill out Z
-- ...
-
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
 
 ### To Do List
 - Make Location/Language buttons work.
