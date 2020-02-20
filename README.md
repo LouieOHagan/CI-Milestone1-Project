@@ -199,24 +199,19 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero image and footer.
 - ##### Contact Us Form Section
     - In desktop view (screen width size of 992px and above) the section is made up of 13 rows. The title is on top which has the 
-    styled horizontal rule underneath it. Underneath the section header there is 5 text input boxes each of which have a label above them.
+    styled horizontal rule underneath it. Underneath the section header there are five text input boxes each of which have a label above them.
     The form requires the "First Name", "Last Name", "Email Address", & "Description" (each of which have a red asterisk beside their label to indicate
     they are required) to be filled out in order to be able to submit. The last input field is the "Phone Number" which is not required to be filled out 
     as it is created in a way that it requires 10 numbers in a row from 1-9 in order to be valid and submitted. Some users may have a foreign number or will 
     input their number in a different way which could frustrate them if it restricts them from submitting the form which would be bad UX. For this reason 
     the email address is taken too which can be used as the method of contact if a phone number is not attached.
 
-    - In tablet view (screen width sizes between 992px to 767px) 
-
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
+    - In tablet view and mobile view (screen width sizes under 992px) the form is fully responsive. The section headers text reduces in size at the 576px
+    breakpoint and the text input fields keep the same percentage width the whole time resulting in them reducing when the page size is reduced.
 
 - ##### Alternative Contact Section
-    - In desktop view (screen width size of 992px and above) 
-
-    - In tablet view (screen width sizes between 992px to 767px) 
-
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)  
-
+    - In all views there are two rows, both contain text adding that instead of filling out the form, an alternative method of contact would be contacting
+    them on social media. Right below this section is the footer which contains links to all of the organisations social media accounts. 
 
 ### Existing Features
 - Feature 1 - allows users X to achieve Y, by having them fill out Z
@@ -233,6 +228,7 @@ In addition, you may also use this section to discuss plans for additional featu
 - Add small border radius to border for text input fields.
 - Add paw prints in between social icons and newsletter section on footer.
 - Put library code (eg bootstrap css file) in library folder so site not dependent on external sources.
+- Add custom alt attribute to all images that arent embedded in css
 ###### Last Updated: 17:39pm GMT - 02/20/20 
 
 ### Features Left to Implement
