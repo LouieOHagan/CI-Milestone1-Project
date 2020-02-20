@@ -198,7 +198,13 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 
 The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero image and footer.
 - ##### Contact Us Form Section
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is made up of 13 rows. The title is on top which has the 
+    styled horizontal rule underneath it. Underneath the section header there is 5 text input boxes each of which have a label above them.
+    The form requires the "First Name", "Last Name", "Email Address", & "Description" (each of which have a red asterisk beside their label to indicate
+    they are required) to be filled out in order to be able to submit. The last input field is the "Phone Number" which is not required to be filled out 
+    as it is created in a way that it requires 10 numbers in a row from 1-9 in order to be valid and submitted. Some users may have a foreign number or will 
+    input their number in a different way which could frustrate them if it restricts them from submitting the form which would be bad UX. For this reason 
+    the email address is taken too which can be used as the method of contact if a phone number is not attached.
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
