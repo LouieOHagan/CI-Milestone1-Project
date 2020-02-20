@@ -93,8 +93,8 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 
 ##### Home Page
 
-- **Orgnisation Information Section**
-    - In desktop view (screen width size of 992px and above) the design is simple. The section is split in to two, the "About Us" section
+- **Organization Information Section**
+    - In desktop view (screen width size of 992px and above) the design is simple. The section is split into two, the "About Us" section
     and the "What We Do ?" section. Above the title is a blue Font Awesome icon and below them is a blue horizontal rule that has a width of 10rem
     and a border width of 50% to give the shape it has. 
 
@@ -105,52 +105,44 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     each taking up the full width of the screen and all content is fully responsive.
 
 - **Testimonials Section**
-    - In desktop view (screen width size of 992px and above) the section is split in to 2 rows. The title is on top which has the styled horizontal
-    rule underneath it which will be seen site wide under all section headers. All horizontal rules have a width of 15rem exc: the ones in the Orgnisation Information 
-<<<<<<< HEAD
-    Section above. Underneath the header are three rounded images of a site user and thier dog, each accompanied by their testimonial and name.
+    - In desktop view (screen width size of 992px and above) the section is split into 2 rows. The title is on top which has the styled horizontal
+    rule underneath it which will be seen site wide under all section headers. All horizontal rules have a width of 15rem exc: the ones in the Organization Information 
+    Section above. Underneath the header are three rounded images of a site user and their dog, each accompanied by their testimonial and name.
 
     - In tablet view (screen width sizes between 992px to 767px) the middle image is removed leaving only two images and their accompanying testimonials
-    to maintain a clean look as after testing three images didnt look well beside eachother at that sized screen.
+    to maintain a clean look as after testing three images didn't look well beside each other at that sized screen.
 
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the middle image is displayed again, resulting in three images 
-=======
-    Section above. Underneath the header are 3 rounded images of a site user and thier dog, each accompanied by their testimonial and name.
-
-    - In tablet view (screen width sizes between 992px to 767px) the middle image is removed leaving only 2 images and their accompanying testimonials
-    to maintain a clean look as after testing 3 images didnt look well beside eachother at that sized screen.
-
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the middle image is displayed again, resulting in 3 images 
->>>>>>> d6545e1566d76ebccd7cab8fe581e2b04c54a3da
-    stacked one on top of the other. The text for each image is also underneath its desingated image.
+    stacked one on top of the other. The text for each image is also underneath its designated image.
 
 - **Redirection Section**
     - In desktop view (screen width size of 992px and above) the section is split in to two rows. The title is on top which has the styled horizontal
-    rule underneath. The second row has three cards, offering the user three seperate locations to try out. On the bottom of each card is a styled blue
+    rule underneath. The second row has three cards, offering the user three separate locations to try out. On the bottom of each card is a styled blue
     button that the user can click to go to their desired location.
 
-    - In tablet view (screen width sizes between 992px to 767px) the card tow turns in to two seperate rows which displays two cards on the top row
+    - In tablet view (screen width sizes between 992px to 767px) the card row turns in to two separate rows which displays two cards on the top row
     and the third card is centered underneath the other two cards. 
 
-<<<<<<< HEAD
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the 
     other to match the rest of the page style on small screen size devices.
-=======
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px) 
->>>>>>> d6545e1566d76ebccd7cab8fe581e2b04c54a3da
 
 
 ##### Walk With Us Page
 
 - **Why Walk With Us Information Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split into 2 rows. The title is on top which has the 
+    styled horizontal rule underneath it. Underneath the section header there is 3 paragraphs of text which are centered in the row.
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) there is not much change other than sizing of content but it is 
+    all responsive.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) again there is little change except for sizing but 
+    once again the section is fully responsive.
 
 - **Walking Locations Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split in to three rows overall which each contain 2 rows each, a header and a 
+    row of three cards. The title is on top which has the styled horizontal rule underneath. The second row has three cards, showcasing seperate locations in
+    the area that the title specifies eg Dublin Spots with three walking locations in Dublin.
 
     - In tablet view (screen width sizes between 992px to 767px) 
 
