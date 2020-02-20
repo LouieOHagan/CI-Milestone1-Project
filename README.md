@@ -130,8 +130,8 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 ##### Walk With Us Page
 
 - **Why Walk With Us Information Section**
-    - In desktop view (screen width size of 992px and above) the section is split into 2 rows. The title is on top which has the 
-    styled horizontal rule underneath it. Underneath the section header there is 3 paragraphs of text which are centered in the row.
+    - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
+    styled horizontal rule underneath it. Underneath the section header there are three paragraphs of text which are centered in the row.
 
     - In tablet view (screen width sizes between 992px to 767px) there is not much change other than sizing of content but it is 
     all responsive.
@@ -140,43 +140,59 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     once again the section is fully responsive.
 
 - **Walking Locations Section**
-    - In desktop view (screen width size of 992px and above) the section is split in to three rows overall which each contain 2 rows each, a header and a 
+    - In desktop view (screen width size of 992px and above) the section is split into three rows overall which each contain 2 rows each, a header and a 
     row of three cards. The title is on top which has the styled horizontal rule underneath. The second row has three cards, showcasing seperate locations in
-    the area that the title specifies eg Dublin Spots with three walking locations in Dublin.
+    the area that the title specifies eg Dublin Spots with three walking locations in Dublin. Each card has a picture of the location with text underneath
+    displaying when the walk is in that specific location and details about it.
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) the section headers remain the same other than a bit of difference in sizing however 
+    the card row turns into two separate rows which displays two cards on the top row and the third card is centered underneath the other two cards.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)  
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the other to match the rest 
+    of the page style on small screen size devices.
 
 - **Redirection Section**
-    - In desktop view (screen width size of 992px and above) 
-
-    - In tablet view (screen width sizes between 992px to 767px) 
-
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px) 
+    - In all views there are three rows, the top two with text with a question/call to action. Underneath there is a blue styled button that will 
+    redirect the user to the contact us page.
 
 ##### Our Favourites Page
 
 - **Our Furry Friends Favourites Information Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
+    styled horizontal rule underneath it. Underneath the section header there is two paragraphs of text which are centered in the row.
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) there is not much change other than sizing of content but it is 
+    all responsive.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) again there is little change except for sizing but 
+    once again the section is fully responsive.
 
 - **Top Three's Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split into three rows overall which each contain 2 rows each, a header and a 
+    row of three cards. The title is on top which has the styled horizontal rule underneath. The second row has three cards, showcasing three of the favourite
+    products in that specific section eg Top Three Foods. Each card has a picture of the product, with a short description of it underneath along with a blue 
+    styled button to an external site where the product can be purchased. 
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) the section headers remain the same other than a bit of difference in sizing however 
+    the card row turns into two separate rows which displays two cards on the top row and the third card is centered underneath the other two cards.
+    The cards increase in size slightly as there is additional space now that the cards are spread over two rows.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)  
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the other to match the rest 
+    of the page style on small screen size devices. 
 
 - **Redirection Section**
-    - In desktop view (screen width size of 992px and above) 
+    - In desktop view (screen width size of 992px and above) the section is split into two rows. The title is on top which has the 
+    styled horizontal rule underneath it. Underneath the section header there is card that has information about more cool items for your
+    that can be found on the organisations Facebook page. This is a great incentive to get more members in to the facebook community to help
+    both the page and organisation expand and get more exposure. The card itself has a Font Awesome icon at the top, a brief description in the
+    middle along with a blue styled button that directs you to an external page (it would direct to the Facebook however for the purpose of the project it
+    directs to the facebook home page in a new tab). 
 
-    - In tablet view (screen width sizes between 992px to 767px) 
+    - In tablet view (screen width sizes between 992px to 767px) the section stays the same, the card in facts increases in size to maintain uniformity with the 
+    rest of the cards on the page which increase in size as there is a bit of extra room when the three cards on one row transforms into two rows.
 
-    - In mobile view & smaller screen sized devices (screen width sizes under 576px)
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the card once again increases in size to maintain uniformity with the 
+    rest of the cards on the page which increases in size as they are now stacked on top of eachother and only have 1 card per row.
 
 ##### Contact Us Page
 
