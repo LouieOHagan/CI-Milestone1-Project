@@ -43,22 +43,34 @@ All pages have 3 main components in common, a Navigation bar, hero image and foo
 - **The Navigation Bar**
     - The navigation bar is fully responsive and is aesthetically pleasing on all platforms. 
     
-        - In desktop view (screen width size of 992px and above)the logo is placed at the very left hand side of the navigation bar followed
+        - In desktop view (screen width size of 992px and above) the logo is placed at the very left hand side of the navigation bar followed
         by the links to the other pages. There is a blue rounded button located to the very right hand side
-        of the bar with the format of "Country (Language)" which can be used to switch where you are from which 
+        of the bar with the format of "Country (Language)" which can be used to switch to your country of residence which 
         will update the walking locations and language of the website (if necessary).
 
         - In tablet view (screen width sizes between 992px to 767px) the logo remains over the left hand side
         and the Location button remains over the right hand side of the navigation bar. The links to other pages are 
         centered and remain in the middle of the navigation bar until the screensize hits the 767px breakpoint.
 
-        - In mobile & smaller screen sized devices (screen width sizes under 767px) the navigation bar remains in place
+        - In mobile view & smaller screen sized devices (screen width sizes under 767px) the navigation bar remains in place
         with the logo over the left hand side however the button and the page links disappear and can be found inside of the
         burger menu icons. When pressed, the navigation bar drops down pushing all content beneath down with it while exposing
         the page links and Location button.
 
 - **Hero Images**
-    - A
+    - There is a hero image on each of the 4 pages. All images take up 60% Viewport Height and have the same style, each have a white dog [to maintain the simplistic white theme] 
+    on the right handisde of the screen with a plain background to ensure the dog is in focus. All images have also been given a gaussian
+    blur overlay but the the blur over the dog has been erased to maintain the focus. To the left hand side
+    of each hero image there is a circluar container that houses call to action text along with a blue rounded button
+    which matches the style of all buttons in the project. Each button is assigned to the first section of the page,
+    so when clicked it will initiate the smooth scroll function found in the index.js file until it reaches its target location. 
+    The function is set to complete the scroll in 800 milliseconds / 0.8 seconds.
+
+    - As the screen width size reduces the dog remains over the right handside of the screen while keeping the circluar
+    container to the right, briefly overlapping until the mobile view and small screen sized devices break point is met.
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 767px) both the dog in the image and the 
+    circluar container are centered along with the rest of the page content which is one section per row and is also centered. 
 
 - **The Footer**
     - A
