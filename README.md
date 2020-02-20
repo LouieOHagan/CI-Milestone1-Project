@@ -107,12 +107,21 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 - **Testimonials Section**
     - In desktop view (screen width size of 992px and above) the section is split in to 2 rows. The title is on top which has the styled horizontal
     rule underneath it which will be seen site wide under all section headers. All horizontal rules have a width of 15rem exc: the ones in the Orgnisation Information 
+<<<<<<< HEAD
     Section above. Underneath the header are three rounded images of a site user and thier dog, each accompanied by their testimonial and name.
 
     - In tablet view (screen width sizes between 992px to 767px) the middle image is removed leaving only two images and their accompanying testimonials
     to maintain a clean look as after testing three images didnt look well beside eachother at that sized screen.
 
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the middle image is displayed again, resulting in three images 
+=======
+    Section above. Underneath the header are 3 rounded images of a site user and thier dog, each accompanied by their testimonial and name.
+
+    - In tablet view (screen width sizes between 992px to 767px) the middle image is removed leaving only 2 images and their accompanying testimonials
+    to maintain a clean look as after testing 3 images didnt look well beside eachother at that sized screen.
+
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) the middle image is displayed again, resulting in 3 images 
+>>>>>>> d6545e1566d76ebccd7cab8fe581e2b04c54a3da
     stacked one on top of the other. The text for each image is also underneath its desingated image.
 
 - **Redirection Section**
@@ -123,8 +132,12 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     - In tablet view (screen width sizes between 992px to 767px) the card tow turns in to two seperate rows which displays two cards on the top row
     and the third card is centered underneath the other two cards. 
 
+<<<<<<< HEAD
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the three cards are stacked one on top of the 
     other to match the rest of the page style on small screen size devices.
+=======
+    - In mobile view & smaller screen sized devices (screen width sizes under 576px) 
+>>>>>>> d6545e1566d76ebccd7cab8fe581e2b04c54a3da
 
 
 ##### Walk With Us Page
