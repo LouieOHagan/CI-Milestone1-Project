@@ -335,7 +335,7 @@ a:hover{
     height: 9.5rem;
 }
 
-.intro .section-header hr{
+.intro .blue-hr hr{
     width: 10rem;
 }
 
@@ -443,7 +443,7 @@ a:hover{
     margin: 15px auto 20px auto;
 }
 
-.section-header hr,
+.blue-hr hr,
 .contact-alt hr{
     width: 15rem;
     border-top: 4px solid #00a8ec;
