@@ -1,6 +1,6 @@
 # **My Furry Friend Responsive Website Project**
 
-[![image-text](https://i.ibb.co/h2KCvrF/btn.png)](https://github.com/LouieOHagan/CI-Milestone1-Project#ux) [![image-text](https://i.ibb.co/2vrDLmj/live-btn.png)](https://louieohagan.github.io/CI-Milestone1-Project/index.html)
+[![image-text](https://i.ibb.co/SJyjBvN/btn.png)](https://github.com/LouieOHagan/CI-Milestone1-Project#ux) ![image-text](https://i.ibb.co/zRBpyQP/logo.png) [![image-text](https://i.ibb.co/pn9BGdY/live-btn.png)](https://louieohagan.github.io/CI-Milestone1-Project/index.html)
 
 This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
 
@@ -225,11 +225,26 @@ The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero
 - Add small border radius to border for text input fields.
 - Add paw prints in between social icons and newsletter section on footer.
 - Put library code (eg bootstrap css file) in library folder so site not dependent on external sources.
-- Add custom alt attribute to all images that arent embedded in css
-###### Last Updated: 17:39pm GMT - 02/20/20 
+- Add custom alt attribute to all images that arent embedded in css.
+- Fix bug with text coming out of cards on medium sized screens on Walk With Us Page.
+- Re-beautify code as Gitpod beautify command distorts code in GitHub.
+###### Last Updated: 12:30pm GMT - 02/21/20 
 
 ### Features Left to Implement
-- Another feature idea
+##### These are features that have not been added at the time of development due to various reasons such as time limitations.
+
+- Add buttons on location cards that open modal with google maps so that user can easily find the location
+in the click of a few buttons.
+- Make the site have a more interactive frontend with JavaScript eg Sections fading in or sliding in as you 
+get to them. 
+- Setup  and connect Email service such as EmailJS to contact form so that form responses are
+sent to organisations email.
+- Add Gallery Page with images showcasing some of the events the organisation have hosted and walks
+that they go on, on a weekly basis.
+- Add carousel for testimonials in order to showcase more than 3 testimonials on the page without
+taking up too much room on the page.
+- Add cookies and/or Google Analytics to gather data about users who visit the site in order to maximise the 
+effect of any digital marketing the organisation is doing. 
 
 ## Technologies Used
 
