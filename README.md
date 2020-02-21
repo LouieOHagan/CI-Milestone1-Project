@@ -71,7 +71,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
 - ##### Hero Images
     - There is a hero image on each of the 4 pages. All images take up 60% Viewport Height and have the same style, each have a white dog [to maintain the simplistic white theme] 
     on the right hand side of the screen with a plain background to ensure the dog is in focus. All images have also been given a gaussian
-    blur overlay but the the blur over the dog has been erased to maintain the focus. To the left hand side
+    blur overlay but the blur over the dog has been erased to maintain the focus. To the left hand side
     of each hero image there is a circular container that houses call to action text along with a blue rounded button
     which matches the style of all buttons in the project. Each button is assigned to the first section of the page,
     so when clicked it will initiate the smooth scroll function found in the index.js file until it reaches its target location. 
@@ -245,6 +245,8 @@ that they go on, on a weekly basis.
 taking up too much room on the page.
 - Add cookies and/or Google Analytics to gather data about users who visit the site in order to maximise the 
 effect of any digital marketing the organisation is doing. 
+- Add back to top button that appears down the bottom right of the screen after scrolling down the page 
+past the first section.
 
 ## Technologies Used
 
@@ -301,7 +303,7 @@ If this section grows too long, you may want to split it off into a separate fil
 ## Deployment
 
 ### GitHub Pages
-The the project was deployed to GitHub Pages using the following steps...
+The project was deployed to GitHub Pages using the following steps...
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
@@ -343,13 +345,42 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 ## Credits
 
 ### Code
+- [Matt Rudge](https://github.com/lechien73): For code in style.css from line 159 - 161 to transition. The code was used to ease in and out
+the bottom border than I created when the Navigation Bar links were hovered over.
+```    
+transition: all .2s ease-in-out;
+-moz-transition: all .2s ease-in-out;
+-webkit-transition: all .2s ease-in-out;
+```
+
+- [w3schools](https://www.w3schools.com/): For Smooth Scrolling JavaScript function as ```scroll-behavior:  smooth;``` CSS element does not support Safari browser which a 
+large amount of mobile users would utilize. Tutorial Found [Here](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+
+- [Boostrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout project mainly to make site responsive using the Bootstrap Grid System. 
+
+- [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure
+correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
 
 ### Content
-- The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
+- All content (excl: Content on Top Three Cards) was written by the Developer Louie O Hagan.
+
+- Top Three Cards: All content inside of the product cards on the "Our Favourites" Page was written by the products company. Each company site
+is linked to the "Read More" button on the bottom of each card.
 
 ### Media
-- The photos used in this site were obtained from ...
+- [Pixabay](https://pixabay.com/): All the Hero Images and Testimonial pictures obtained from Pixabay.
+
+- [Google Images](https://www.google.com/imghp?hl=en): All Location Images and Product Images obtained from Google Images.
+
+- All Hero Images and Location Images were edited by the Developer Louie O Hagan.
+    - All Hero images were given a gaussian blur overlay but the blur over the dog was been erased to maintain the focus on the white dog
+    
+    - All Location card images colouring on "Walk With Us" page were edited to maintain bright, appealing and colourful pictures that matched eachother 
+    and complimented the simplicity of the websites colours.
 
 ### Acknowledgements
 
-- I received inspiration for this project from X
+- My Mentor Adegbenga Adeye for continous helpful feedback and ideas to better improve both myself as a developer and my project.
+
+- The idea of locating the dog to the right handside with as little around it to keep focus on the dog was
+inspired by the "House My Dog" [website](https://housemydog.com/).
