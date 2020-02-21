@@ -84,6 +84,10 @@ a:hover{
     margin: 0 auto;
 }
 
+.lang-ol{
+    margin: 0;
+}
+
 /* --------------------------Buttons */
 
 .btn-lang{
@@ -666,6 +670,8 @@ a:hover{
         margin: 0;
         font-size: 13px;
         padding: 1px 3px 0 5px;
+        position: relative;
+        left: -45px;
     }
 
     .footer-header{
