@@ -275,6 +275,8 @@ effect of any digital marketing the organisation is doing.
     - Photoshop was used to create the logo, resizing images and editing photos for the website. 
 1. [Balsamiq:](https://balsamiq.com/)
     - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/CI-Milestone1-Project#skeleton) during the design process. 
+1. [Screen to GIF](https://www.screentogif.com/)
+    - Screen to GIF was used to record the screen to create GIF's to demonstrate a specific task in video for the README.md file.
 
 ## Testing
 
@@ -298,15 +300,45 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+### GitHub Pages
+The the project was deployed to GitHub Pages using the following steps...
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables (Heroku Config Vars)?
-- Different configuration files?
-- Separate git branch?
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+    - Alternatively Click [Here]() for a GIF demonstrating the process starting from Step 2.
+3. Sroll down the Settings page unti you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refesh.
+6. Scroll back down through the page to locate the now published site [link](https://louieohagan.github.io/CI-Milestone1-Project/index.html) in the "GitHub Pages" section.
 
-In addition, if it is not obvious, you should also describe how to run your code locally.
+### Forking the GitHub Repository
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Making a Local Clone
+
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
+2. Under the repository name, click "Clone or download".
+3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
+4. Open Git Bash
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type ```git clone```, and then paste the URL you copied in Step 3.
+```
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+```
+7. Press Enter. Your local clone will be created.
+```console
+$ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`...
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above proccess.
 
 ## Credits
 
