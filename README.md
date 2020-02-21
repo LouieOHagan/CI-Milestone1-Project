@@ -222,12 +222,12 @@ The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero
 - Make Location/Language buttons work.
 - Modal popup after form is submitted on Contact Page.
 - Change all measurements from "px" to "rem".
-- Add small border radius to border for text input fields.
+- ~~Add small border radius to border for text input fields.~~ - **Implemented 21/2/2020**
 - Add paw prints in between social icons and newsletter section on footer.
 - Put library code (eg bootstrap css file) in library folder so site not dependent on external sources.
-- Add custom alt attribute to all images that arent embedded in css.
+- ~~Add custom alt attribute to all images that arent embedded in css.~~ - **Implemented 21/2/2020**
 - Fix bug with text coming out of cards on medium sized screens on Walk With Us Page.
-- Re-beautify code as Gitpod beautify command distorts code in GitHub.
+- ~~Re-beautify code as Gitpod beautify command distorts code in GitHub.~~ - **Implemented 21/2/2020**
 ###### Last Updated: 12:30pm GMT - 02/21/20 
 
 ### Features Left to Implement
