@@ -5,18 +5,24 @@
 This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
 
 The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us", each of which have 3 variants. As My Furry Friends is operational in 3 countries, the website will come with a dropdown bar to allow users to change their location and language, the website content will be updated retrospectively for ease of use.
- 
+
+<------------ Add Demonstration/Image of Site Here ------------>
+
 ## User Experience (UX)
 
 - ### User stories
-    - Site Visitor Goals
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and easily be able to find content.
-        1. As a First Time Visitor, I want to be able to 
-        1. User Returning for second time
-        1. Frequent User
+    - #### Site Visitor Goals
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+        1. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+        1. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+        1. As a Returning Visitor, I want to find the different walking locations in my area that I could take part in.
+        1. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+        1. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+        1. As a Frequent User, I want to check to see if there are any newly added favourite products reccomendations.
+        1. As a Frequent User, I want to check to see if there are any newly added Walking Locations in my area.
 
 - ### Design
-    - Colour Scheme
+    - #### Colour Scheme
         - The 2 colours I chose for the project was an #f7f7f7 (off-White) & #00a8ec (Light Blue). From the beginning of the design proccess,
         the goal was to design a very clean, simplistic but easy to navigate around website. #ec4400 (Orange) is a complementary to #00a8ec (Blue)
         however I decided to go with #f7f7f7 (off-White) as I strongly believe the two work really nice together and radiate cleanliness and simplicity.
@@ -27,13 +33,13 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
             - [#f7f7f7](https://www.colorhexa.com/f7f7f7) (off-White): "Just as black is total absorption, so white is total reflection. In effect, it reflects 
             the full force of the spectrum into our eyes. Thus it also creates barriers, but differently from black, and it is often a strain to look at. It 
             communicates, "Touch me not!" White is purity and, like black, uncompromising; it is clean, hygienic, and sterile."
-    - Typography
+    - #### Typography
         - The Titillium Web is the only font used throughout the whole website with Sans Serif as the backup font in case for any reason
         the font isnt being imported in to the site correctly. Titillium Web was the only font used in order to maintain a simplistic look
         and keep it conistent throughout the whole site. The font was imported in to the style.css from Google Fonts who make it very easy to
         to import fonts and are a very reliable external source. The Titillium Web font offers 11 font weight styles from "Extra Light" (200 weight)
         to "Black" (900 weight) however for this project only the 300, 400 & 600 font weights were imported and utilised.
-    - Imagery
+    - #### Imagery
         - Imagery was a big factor considered throughout the entirety of the development as it has such a powerful impact on users. All of the hero images
         were kept consistent in terms of style, all maintain the blurred background with a white dog to the right hand side of the image to keep with 
         the simplistic white page that was matched with a vibrant blue. I also focussed on obtaining images that best suited the specific page. Eg 
@@ -49,10 +55,6 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
     * Contact Us Page Wireframe - [View](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/4.%20Contact%20Us%20Wireframe.jpg)
 
     * Click [Here](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/All%20Wireframes%20Document.pdf) for Document containing all Wireframes in .pdf format.
-
-
-* ### Surface
-
 
 ## Features
 
