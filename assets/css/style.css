@@ -573,6 +573,11 @@ a:hover{
         font-size: 15px;
     }
 
+    .location-card p{
+        padding: 0 5px;
+        font-size: 14px;
+    }
+
     .card-button .btn-blue {
         width: 45%;
     }
