@@ -1,6 +1,6 @@
-# **My Furry Friend Responsive Website Project**
+<h1 align="center">My Furry Friend Responsive Website Project</h1>
 
-[![image-text](https://i.ibb.co/SJyjBvN/btn.png)](https://github.com/LouieOHagan/CI-Milestone1-Project#ux) ![image-text](https://i.ibb.co/zRBpyQP/logo.png) [![image-text](https://i.ibb.co/pn9BGdY/live-btn.png)](https://louieohagan.github.io/CI-Milestone1-Project/index.html)
+<h2 align="center"><a href="https://github.com/LouieOHagan/CI-Milestone1-Project#ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/CI-Milestone1-Project/index.html"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
 
 This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
 
