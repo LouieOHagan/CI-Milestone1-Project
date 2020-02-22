@@ -1,6 +1,6 @@
 <h1 align="center">My Furry Friend Responsive Website Project</h1>
 
-<h2 align="center"><a href="https://github.com/LouieOHagan/My-Furry-Friend-Website#ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/My-Furry-Friend-Website/"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
+<h2 align="center"><a href="https://github.com/LouieOHagan/My-Furry-Friend-Website#user-experience-ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/My-Furry-Friend-Website/"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
 
 This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
 
@@ -9,20 +9,35 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 ## User Experience (UX)
 
 - ### User stories
-    - Organization Owner(s) Goals
-        - XXX
     - Site Visitor Goals
-        - XXX
+        1. As a First Time Visitor, I want to easily understand the main purpose of the site and easily be able to find content.
+        1. As a First Time Visitor, I want to be able to 
+        1. User Returning for second time
+        1. Frequent User
 
 - ### Design
-    - Structure
-        - XXX
     - Colour Scheme
-        - XXX
+        - The 2 colours I chose for the project was an #f7f7f7 (off-White) & #00a8ec (Light Blue). From the beginning of the design proccess,
+        the goal was to design a very clean, simplistic but easy to navigate around website. #ec4400 (Orange) is a complementary to #00a8ec (Blue)
+        however I decided to go with #f7f7f7 (off-White) as I strongly believe the two work really nice together and radiate cleanliness and simplicity.
+        The Psychological effects that colours can have was a big part of deciding what colours to go with.
+            - [#00a8ec](https://www.color-hex.com/color/00a8ec) (Light Blue): "Blue is the colour of the mind and is essentially soothing; it affects us 
+            mentally, rather than the physical reaction we have to red. Strong blues will stimulate clear thought and lighter, soft blues will calm the mind 
+            and aid concentration. Consequently it is serene and mentally calming. It is the colour of clear communication."
+            - [#f7f7f7](https://www.colorhexa.com/f7f7f7) (off-White): "Just as black is total absorption, so white is total reflection. In effect, it reflects 
+            the full force of the spectrum into our eyes. Thus it also creates barriers, but differently from black, and it is often a strain to look at. It 
+            communicates, "Touch me not!" White is purity and, like black, uncompromising; it is clean, hygienic, and sterile."
     - Typography
-        - XXX
+        - The Titillium Web is the only font used throughout the whole website with Sans Serif as the backup font in case for any reason
+        the font isnt being imported in to the site correctly. Titillium Web was the only font used in order to maintain a simplistic look
+        and keep it conistent throughout the whole site. The font was imported in to the style.css from Google Fonts who make it very easy to
+        to import fonts and are a very reliable external source. The Titillium Web font offers 11 font weight styles from "Extra Light" (200 weight)
+        to "Black" (900 weight) however for this project only the 300, 400 & 600 font weights were imported and utilised.
     - Imagery
-        - XXX
+        - Imagery was a big factor considered throughout the entirety of the development as it has such a powerful impact on users. All of the hero images
+        were kept consistent in terms of style, all maintain the blurred background with a white dog to the right hand side of the image to keep with 
+        the simplistic white page that was matched with a vibrant blue. I also focussed on obtaining images that best suited the specific page. Eg 
+        "Walk With Us" contains a white dog on a walk & "Our Favourites" is a white dog playing with a toy.  
 
 * ### Wireframes
     * Home Page Wireframe - [View](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/1.%20Index.html%20Wireframe.jpg)   
@@ -279,7 +294,7 @@ past the first section.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to create the logo, resizing images and editing photos for the website. 
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/My-Furry-Friend-Website#skeleton) during the design process. 
+    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/My-Furry-Friend-Website#wireframes) during the design process. 
 1. [Screen to GIF](https://www.screentogif.com/)
     - Screen to GIF was used to record the screen to create GIF's to demonstrate a specific task in video for the README.md file.
 1. [HTML Formatter](https://htmlformatter.com/)
@@ -371,6 +386,8 @@ correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/do
 
 - Top Three Cards: All content inside of the product cards on the "Our Favourites" Page was written by the products company. Each company site
 is linked to the "Read More" button on the bottom of each card.
+
+- Psychological Properties Of Colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 - [Pixabay](https://pixabay.com/): All the Hero Images and Testimonial pictures obtained from Pixabay.
