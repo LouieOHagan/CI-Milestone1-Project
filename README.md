@@ -2,7 +2,7 @@
 
 <h2 align="center"><a href="https://github.com/LouieOHagan/My-Furry-Friend-Website#user-experience-ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/My-Furry-Friend-Website/"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
 
-This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
+This is a website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjunction with dog accessories recommendations and multiple methods of contact.
 
 The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us", each of which have 3 variants. As My Furry Friends is operational in 3 countries, the website will come with a dropdown bar to allow users to change their location and language, the website content will be updated retrospectively for ease of use.
 
@@ -22,13 +22,13 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
         3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
 
     - #### Frequent UserGoals
-        1. As a Frequent User, I want to check to see if there are any newly added favourite products reccomendations.
+        1. As a Frequent User, I want to check to see if there are any newly added favourite products recommendations.
         2. As a Frequent User, I want to check to see if there are any newly added Walking Locations in my area.
         3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 - ### Design
     - #### Colour Scheme
-        - The 2 colours I chose for the project was an #f7f7f7 (off-White) & #00a8ec (Light Blue). From the beginning of the design proccess,
+        - The 2 colours I chose for the project was an #f7f7f7 (off-White) & #00a8ec (Light Blue). From the beginning of the design process,
         the goal was to design a very clean, simplistic but easy to navigate around website. #ec4400 (Orange) is a complementary to #00a8ec (Blue)
         however I decided to go with #f7f7f7 (off-White) as I strongly believe the two work really nice together and radiate cleanliness and simplicity.
         The Psychological effects that colours can have was a big part of deciding what colours to go with.
@@ -40,8 +40,8 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
             communicates, "Touch me not!" White is purity and, like black, uncompromising; it is clean, hygienic, and sterile."
     - #### Typography
         - The Titillium Web is the only font used throughout the whole website with Sans Serif as the backup font in case for any reason
-        the font isnt being imported in to the site correctly. Titillium Web was the only font used in order to maintain a simplistic look
-        and keep it conistent throughout the whole site. The font was imported in to the style.css from Google Fonts who make it very easy to
+        the font isn't being imported into the site correctly. Titillium Web was the only font used in order to maintain a simplistic look
+        and keep it consistent throughout the whole site. The font was imported in to the style.css from Google Fonts who make it very easy to
         to import fonts and are a very reliable external source. The Titillium Web font offers 11 font weight styles from "Extra Light" (200 weight)
         to "Black" (900 weight) however for this project only the 300, 400 & 600 font weights were imported and utilised.
     - #### Imagery
@@ -63,7 +63,7 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 
 ## Features
 
-**Note:** All Features Information can be located in seperate [FEATURES.MD File]() due to length of content.
+**Note:** All Features Information can be located in seperate [FEATURES.MD File](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/FEATURES.MD) due to length of content.
 
 ## Technologies Used
 
@@ -73,7 +73,7 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 - [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
-1. [Boostrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/) 
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/) 
     - Bootstrap was used to assist with the responsiveness and styling of the website.
 1. [Hover.css:](https://ianlunn.github.io/Hover/)
     - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
@@ -127,9 +127,9 @@ The project was deployed to GitHub Pages using the following steps...
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/My-Furry-Friend-Website)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
     - Alternatively Click [Here](https://raw.githubusercontent.com/LouieOHagan/CI-Milestone1-Project/master/readMe-assets/github-pages-deployment.gif) for a GIF demonstrating the process starting from Step 2.
-3. Sroll down the Settings page unti you locate the "GitHub Pages" Section.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
-5. The page will automatically refesh.
+5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://louieohagan.github.io/My-Furry-Friend-Website/index.html) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
@@ -159,7 +159,7 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
 ```
-Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above proccess.
+Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
 
 ## Credits
 
@@ -173,9 +173,9 @@ transition: all .2s ease-in-out;
 ```
 
 - [w3schools](https://www.w3schools.com/): For Smooth Scrolling JavaScript function as ```scroll-behavior:  smooth;``` CSS element does not support Safari browser which a 
-large amount of mobile users would utilize. Tutorial Found [Here](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
+large amounts of mobile users would utilize it. Tutorial Found [Here](https://www.w3schools.com/howto/howto_css_smooth_scroll.asp)
 
-- [Boostrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout project mainly to make site responsive using the Bootstrap Grid System. 
+- [Bootstrap4](https://getbootstrap.com/docs/4.4/getting-started/introduction/): Bootstrap Library used throughout the project mainly to make site responsive using the Bootstrap Grid System. 
 
 - [MDN Web Docs](https://developer.mozilla.org/) : For Pattern Validation code. Code was modified to better fit my needs and to match an Irish phone number layout to ensure
 correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel#Pattern_validation)
@@ -196,12 +196,12 @@ is linked to the "Read More" button on the bottom of each card.
 - All Hero Images and Location Images were edited by the Developer Louie O Hagan.
     - All Hero images were given a gaussian blur overlay but the blur over the dog was been erased to maintain the focus on the white dog
     
-    - All Location card images colouring on "Walk With Us" page were edited to maintain bright, appealing and colourful pictures that matched eachother 
+    - All Location card images colouring on "Walk With Us" page were edited to maintain bright, appealing and colourful pictures that matched each other 
     and complimented the simplicity of the websites colours.
 
 ### Acknowledgements
 
-- My Mentor Adegbenga Adeye for continous helpful feedback and ideas to better improve both myself as a developer and my project.
+- My Mentor Adegbenga Adeye for continuous helpful feedback and ideas to better improve both myself as a developer and my project.
 
 - The idea of locating the dog to the right handside with as little around it to keep focus on the dog was
 inspired by the "House My Dog" [website](https://housemydog.com/).

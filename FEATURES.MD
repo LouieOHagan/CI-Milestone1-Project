@@ -15,7 +15,7 @@ the same basic structure in terms of the layout of sections (except the contact 
 
 The pages start with text information, the second section is the main section of the page which contains
 the content most relevant to the page and the bottom section is some type of redirection so that the user 
-doesnt get to the bottom of the page and feel isoltated and just close the tab. The users are always offered somewhere
+doesn't get to the bottom of the page and feel isolated and just close the tab. The users are always offered somewhere
 new to go whether its to an external platform of the organisation eg Facebook page or to another page on the site.
 
 - ##### The Navigation Bar
@@ -48,7 +48,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     container to the right, briefly overlapping until the mobile view and small screen sized devices breakpoint is met.
 
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) both the dog in the image and the 
-    circular container are centered along with the rest of the page content which is one section per row and is also centered. 
+    circular containers are centered along with the rest of the page content which is one section per row and is also centered. 
 
 - ##### The Footer
     - The footer is made up of 4 main sections. Social Media Icons, Newsletter Subscription Input, copyright information and 
@@ -186,16 +186,17 @@ The Contact Us Page is made up of 2 main sections excl: the navigation bar, hero
     them on social media. Right below this section is the footer which contains links to all of the organisations social media accounts. 
 
 ### To Do List
-- Make Location/Language buttons work.
+- ~~Make Location/Language buttons work.~~ - **Implemented 22/2/20**
+- Create swedish pages and make Sweden Button on Dropdown work.
 - Modal popup after form is submitted on Contact Page.
 - Change all measurements from "px" to "rem".
 - ~~Add small border radius to border for text input fields.~~ - **Implemented 21/2/20**
 - Add paw prints in between social icons and newsletter section on footer.
 - Put library code (eg bootstrap css file) in library folder so site not dependent on external sources.
-- ~~Add custom alt attribute to all images that arent embedded in css.~~ - **Implemented 21/2/20**
+- ~~Add custom alt attribute to all images that aren't embedded in css.~~ - **Implemented 21/2/20**
 - ~~Fix bug with text coming out of cards on medium sized screens on Walk With Us Page.~~ - **Implemented 22/2/20**
 - ~~Re-beautify code as Gitpod beautify command distorts code in GitHub.~~ - **Implemented 21/2/20**
-###### Last Updated: 11:06am GMT - 22/02/20 
+###### Last Updated: 11:49pm GMT - 22/02/20 
 
 ### Features Left to Implement
 ##### These are features that have not been added at the time of development due to various reasons such as time limitations.
