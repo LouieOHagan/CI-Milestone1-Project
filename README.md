@@ -1,42 +1,45 @@
 <h1 align="center">My Furry Friend Responsive Website Project</h1>
 
-<h2 align="center"><a href="https://github.com/LouieOHagan/CI-Milestone1-Project#ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/CI-Milestone1-Project/index.html"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
+<h2 align="center"><a href="https://github.com/LouieOHagan/My-Furry-Friend-Website#ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/My-Furry-Friend-Website/"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
 
 This is website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjuction with dog accessories reccomendations and multiple methods of contact.
 
 The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us", each of which have 3 variants. As My Furry Friends is operational in 3 countries, the website will come with a dropdown bar to allow users to change their location and language, the website content will be updated retrospectively for ease of use.
  
-## UX
+## User Experience (UX)
 
-* ### User stories
+- ### User stories
+    - Organization Owner(s) Goals
+        - XXX
+    - Site Visitor Goals
+        - XXX
 
+- ### Design
+    - Structure
+        - XXX
+    - Colour Scheme
+        - XXX
+    - Typography
+        - XXX
+    - Imagery
+        - XXX
 
-* ### Strategy
+* ### Wireframes
+    * Home Page Wireframe - [View](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/1.%20Index.html%20Wireframe.jpg)   
 
+    * Walk With Us Page Wireframe - [View](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/2.%20walk-with-us.html%20Wireframe.jpg)
 
-* ### Scope
+    * Our Favourites Page Wireframe - [View](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/3.%20Our%20Favourites%20Wireframe.jpg)
 
+    * Contact Us Page Wireframe - [View](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/4.%20Contact%20Us%20Wireframe.jpg)
 
-* ### Structure
-
-
-* ### Skeleton
-    * Home Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/1.%20Index.html%20Wireframe.jpg)   
-
-    * Walk With Us Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/2.%20walk-with-us.html%20Wireframe.jpg)
-
-    * Our Favourites Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/3.%20Our%20Favourites%20Wireframe.jpg)
-
-    * Contact Us Page Wireframe - [View](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/4.%20Contact%20Us%20Wireframe.jpg)
-
-    * Click [Here](https://github.com/LouieOHagan/CI-Milestone1-Project/blob/master/readMe-assets/wireframes/All%20Wireframes%20Document.pdf) for Document containing all Wireframes in .pdf format.
+    * Click [Here](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/wireframes/All%20Wireframes%20Document.pdf) for Document containing all Wireframes in .pdf format.
 
 
 * ### Surface
 
 
 ## Features
-
 
 ### Current Pages & Features
 
@@ -276,7 +279,7 @@ past the first section.
 1. [Photoshop:](https://www.adobe.com/ie/products/photoshop.html)
     - Photoshop was used to create the logo, resizing images and editing photos for the website. 
 1. [Balsamiq:](https://balsamiq.com/)
-    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/CI-Milestone1-Project#skeleton) during the design process. 
+    - Balsamiq was used to create the [wireframes](https://github.com/LouieOHagan/My-Furry-Friend-Website#skeleton) during the design process. 
 1. [Screen to GIF](https://www.screentogif.com/)
     - Screen to GIF was used to record the screen to create GIF's to demonstrate a specific task in video for the README.md file.
 1. [HTML Formatter](https://htmlformatter.com/)
@@ -307,24 +310,24 @@ If this section grows too long, you may want to split it off into a separate fil
 ### GitHub Pages
 The project was deployed to GitHub Pages using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/My-Furry-Friend-Website)
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
     - Alternatively Click [Here](https://raw.githubusercontent.com/LouieOHagan/CI-Milestone1-Project/master/readMe-assets/github-pages-deployment.gif) for a GIF demonstrating the process starting from Step 2.
 3. Sroll down the Settings page unti you locate the "GitHub Pages" Section.
 4. Under "Source", click the dropdown called "None" and select "Master Branch".
 5. The page will automatically refesh.
-6. Scroll back down through the page to locate the now published site [link](https://louieohagan.github.io/CI-Milestone1-Project/index.html) in the "GitHub Pages" section.
+6. Scroll back down through the page to locate the now published site [link](https://louieohagan.github.io/My-Furry-Friend-Website/index.html) in the "GitHub Pages" section.
 
 ### Forking the GitHub Repository
 By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/My-Furry-Friend-Website)
 2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
 3. You should now have a copy of the original repository in your GitHub account.
 
 ### Making a Local Clone
 
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/CI-Milestone1-Project)
+1. Log in to GitHub and locate the [GitHub Repository](https://github.com/LouieOHagan/My-Furry-Friend-Website)
 2. Under the repository name, click "Clone or download".
 3. To clone the repository using HTTPS, under "Clone with HTTPS", copy the link.
 4. Open Git Bash
