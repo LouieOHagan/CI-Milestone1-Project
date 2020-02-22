@@ -6,20 +6,25 @@ This is website for an organisation called 'My Furry Friend'. My Furry Friend is
 
 The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us", each of which have 3 variants. As My Furry Friends is operational in 3 countries, the website will come with a dropdown bar to allow users to change their location and language, the website content will be updated retrospectively for ease of use.
 
-<------------ Add Demonstration/Image of Site Here ------------>
+<h2 align="center"><img src="https://i.ibb.co/t3YrDMn/design-display.jpg"></h2>
 
 ## User Experience (UX)
 
 - ### User stories
-    - #### Site Visitor Goals
+    - #### First Time Visitor Goals
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        1. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
-        1. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
+        2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.      
+
+    - #### Returning Visitor Goals
         1. As a Returning Visitor, I want to find the different walking locations in my area that I could take part in.
-        1. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        1. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
+        3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
+
+    - #### Frequent UserGoals
         1. As a Frequent User, I want to check to see if there are any newly added favourite products reccomendations.
-        1. As a Frequent User, I want to check to see if there are any newly added Walking Locations in my area.
+        2. As a Frequent User, I want to check to see if there are any newly added Walking Locations in my area.
+        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
 
 - ### Design
     - #### Colour Scheme
