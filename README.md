@@ -2,7 +2,7 @@
 
 <h2 align="center"><a href="https://github.com/LouieOHagan/My-Furry-Friend-Website#user-experience-ux"><img src="https://i.ibb.co/SJyjBvN/btn.png"></a><img src="https://i.ibb.co/zRBpyQP/logo.png"><a href="https://louieohagan.github.io/My-Furry-Friend-Website/"><img src="https://i.ibb.co/pn9BGdY/live-btn.png"></a></h2>
 
-This is a website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share the common love for dogs along with their goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjunction with dog accessories recommendations and multiple methods of contact.
+This is a website for an organisation called 'My Furry Friend'. My Furry Friend is operational in 3 countries, Ireland, England and Sweden. Their vision is to create a friendly community of people who share a common love for dogs along with a goal to bring dogs and their owners from all around the country together to meet, play, walk and talk. The website will be used to provide information to visitors about the organisation in conjunction with recommendations for dog accessories and multiple methods of contact.
 
 The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Contact Us", each of which have 3 variants. As My Furry Friends is operational in 3 countries, the website will come with a dropdown bar to allow users to change their location and language, the website content will be updated retrospectively for ease of use.
 
@@ -13,8 +13,8 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 - ### User stories
     - #### First Time Visitor Goals
         1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.      
+        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
+        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.      
 
     - #### Returning Visitor Goals
         1. As a Returning Visitor, I want to find the different walking locations in my area that I could take part in.
@@ -30,7 +30,7 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
     - #### Colour Scheme
         - The 2 colours I chose for the project was an #f7f7f7 (off-White) & #00a8ec (Light Blue). From the beginning of the design process,
         the goal was to design a very clean, simplistic but easy to navigate around website. #ec4400 (Orange) is a complementary to #00a8ec (Blue)
-        however I decided to go with #f7f7f7 (off-White) as I strongly believe the two work really nice together and radiate cleanliness and simplicity.
+        however I decided to go with #f7f7f7 (off-White) as I strongly believe the two work really well together and radiate cleanliness and simplicity.
         The Psychological effects that colours can have was a big part of deciding what colours to go with.
             - [#00a8ec](https://www.color-hex.com/color/00a8ec) (Light Blue): "Blue is the colour of the mind and is essentially soothing; it affects us 
             mentally, rather than the physical reaction we have to red. Strong blues will stimulate clear thought and lighter, soft blues will calm the mind 
@@ -102,8 +102,8 @@ The website has 4 main pages, "Home", "Walk With Us", "Our Favourites" and "Cont
 ## Testing
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
-- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
-- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results]()
+- [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/markuo-validator-results.PNG)
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](https://github.com/LouieOHagan/My-Furry-Friend-Website/blob/master/readMe-assets/css-validator-results.PNG)
 
 
 ### Testing User Stories from User Experience (UX) Section
@@ -153,11 +153,19 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
         2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
         3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
 
-### Testing All Pages (Constistency with side wide things such as footer and nav). Also testing buttons work properly for england back and forward.
-
-### Testing on Other Browsers
+### Further Testing
+- The Website was tested on Google Chrome, Internet Explorer, Microsoft Edge and Safari browsers. 
+- The website was viewed on a variety of devices such as Desktop, Laptop, iPhone7, iPhone 8 & iPhoneX.
+- A large amount of testing was done to ensure that all pages were linking correctly when switching between locations.
+    - When you switch from Ireland to England or vice versa, you will remain on the current page and wont just be directed to the home page each time.
+- Friends and Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
+- On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page. 
+    - A white gap can be seen to the right of the footer and navigation bar as a result.
+- On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them. 
+- Sweden (SV) Button does not direct anywhere on Location/Language dropdown.
+    - Due to time limitations, the Swedish pages could not be implemented nor could the whole site be translated to Swedish.
 
 ## Deployment
 
@@ -226,7 +234,7 @@ correct validation. Tutorial Found [Here](https://developer.mozilla.org/en-US/do
 - Top Three Cards: All content inside of the product cards on the "Our Favourites" Page was written by the products company. Each company site
 is linked to the "Read More" button on the bottom of each card.
 
-- Psychological Properties Of Colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+- Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
 
 ### Media
 - [Pixabay](https://pixabay.com/): All the Hero Images and Testimonial pictures obtained from Pixabay.
@@ -241,7 +249,7 @@ is linked to the "Read More" button on the bottom of each card.
 
 ### Acknowledgements
 
-- My Mentor Adegbenga Adeye for continuous helpful feedback and ideas to better improve both myself as a developer and my project.
+- My Mentor Adegbenga Adeye for continuous helpful feedback and ideas to improve both myself as a developer and my project.
 
 - The idea of locating the dog to the right handside with as little around it to keep focus on the dog was
 inspired by the "House My Dog" [website](https://housemydog.com/).

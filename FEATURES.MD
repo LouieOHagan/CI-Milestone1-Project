@@ -56,8 +56,8 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     newsletter subscription section to the right. Underneath that row there is a second row in the footer which houses the 
     copyright information for the organisation "My Furry Friend" along with the website developers information.
 
-    - The footer is fully responsive however there are no major changes other than the size of some objects until the size width size
-    hits the mobile view. 
+    - The footer is fully responsive however there are no major changes other than the size of some objects until the width size
+    hits the mobile view breakpoint.
 
     - In mobile view & smaller screen sized devices (screen width sizes under 576px) the footer is split from 2 rows in to 3 each taking up the full width of the screen. 
     On the top of the footer in the first row are the social media icons, beneath them in the middle row is the newsletter subscription
@@ -112,7 +112,7 @@ new to go whether its to an external platform of the organisation eg Facebook pa
     once again the section is fully responsive.
 
 - ##### Walking Locations Section
-    - In desktop view (screen width size of 992px and above) the section is split into three rows overall which each contain 2 rows each, a header and a 
+    - In desktop view (screen width size of 992px and above) the section is split into three rows overall which each contain 2 rows, a header and a 
     row of three cards. The title is on top which has the styled horizontal rule underneath. The second row has three cards, showcasing seperate locations in
     the area that the title specifies eg Dublin Spots with three walking locations in Dublin. Each card has a picture of the location with text underneath
     displaying when the walk is in that specific location and details about it.
@@ -215,3 +215,4 @@ taking up too much room on the page.
 effect of any digital marketing the organisation is doing. 
 - Add back to top button that appears down the bottom right of the screen after scrolling down the page 
 past the first section.
+- Add a "New" tag or label for newly added products & walk locations on "Our Favourites" Page and "Walk With Us" Page
