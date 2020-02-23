@@ -11,7 +11,7 @@
     color: #f7f7f7;
     background-color: #00a8ec;
     border-color: #00a8ec;
-    border-radius: 35px;
+    border-radius: 2.1875rem;
 }
 
 .btn-blue:hover{
@@ -30,12 +30,12 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Titillium Web', sans-serif;
-    font-size: 18px;
+    font-size: 1.125rem;
 }
 
 .col, .col-1, .col-10, .col-11, .col-12, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-auto, .col-lg, .col-lg-1, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-auto, .col-md, .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-auto, .col-sm, .col-sm-1, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-auto, .col-xl, .col-xl-1, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-auto {
-    padding-right: 0px;
-    padding-left: 0px;
+    padding-right: 0;
+    padding-left: 0;
 }
 
 .container-head{
@@ -51,8 +51,8 @@ body {
 }
 
 .btn-row{
-    padding-left: 10px;
-    padding-right: 3px;
+    padding-left: 0.625rem;
+    padding-right: 0.1875rem;
 }
 
 .box-row{
@@ -65,15 +65,15 @@ a:hover{
 }
 
 .new-tab{
-    margin-top: 150px;
+    margin-top: 9.375rem;
 }
 
 .card-container .new-tab{
-    margin-top: 50px; 
+    margin-top: 3.125rem; 
 }
 
 .redirects{
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
 }
 
 .card-body{
@@ -91,12 +91,12 @@ a:hover{
 /* --------------------------Buttons */
 
 .btn-lang{
-    margin-right: 10px;
-    padding: 0px 5px 0 8px;
+    margin-right: 0.625rem;
+    padding: 0 0.3125rem 0 0.5rem;
 }
 
 .btn-lang a{
-    font-size: 17px;
+    font-size: 1.0625rem;
 }
 
 .dropdown{
@@ -111,7 +111,7 @@ a:hover{
 
 .dropdown-menu{
     background-color: #00a8ec;
-    margin-left: -14px;
+    margin-left: -0.875rem;
 }
 
 .dropdown-menu a{
@@ -138,17 +138,17 @@ a:hover{
 }
 
 .contact-alt{
-    padding-top: 50px;
+    padding-top: 3.125rem;
 }
 
 /* --------------------------Navigation Bar */
 
 .logo{
     background: url(../images/mff-favicon.png) center no-repeat;
-    background-size: 50px;
-    width: 50px;
-    height: 50px;
-    margin: 0 25px 0 10px;
+    background-size: 3.125rem;
+    width: 3.125rem;
+    height: 3.125rem;
+    margin: 0 25px 0 0.625rem;
 }
 
 .navbar-nav .nav-link {
@@ -208,7 +208,7 @@ a:hover{
 .connect-icons li{
     text-decoration: none;
     display: inline-block;
-    margin: 0 5px;
+    margin: 0 0.3125rem;
 }
 
 .connect-icons li i{
@@ -289,9 +289,9 @@ a:hover{
 }
 
 .head-text .btn-blue{
-    margin-top: 5px; 
+    margin-top: 0.3125rem; 
     width: 40%;
-    padding: 10px 0;
+    padding: 0.625rem 0;
 }
 
 .section-header{
@@ -304,7 +304,7 @@ a:hover{
     font-size: 75px;
     color: #00a8ec;
     padding-bottom: 15px;
-    padding-top: 10px;
+    padding-top: 0.625rem;
 }
 
 .top-tab{
@@ -349,7 +349,7 @@ a:hover{
     width: 18rem;
     height: 23rem;
     text-align: center;
-    margin: 50px auto 20px auto;
+    margin: 3.125rem auto 20px auto;
     border: 1px solid rgba(133, 133, 133, 0.329);
     box-shadow: 1.5px 1.5px 4px 1px rgba(133, 133, 133, 0.486);
 }
@@ -401,7 +401,7 @@ a:hover{
 }
 
 .fav-card p{
-    margin: 10px 0;
+    margin: 0.625rem 0;
     font-size: 15.5px;
 }
 
@@ -475,7 +475,7 @@ a:hover{
     font-size: 35px;
     width: 90%;
     margin: 0 auto;
-    padding: 5px 0px;
+    padding: 0.3125rem 0px;
 }
 
 /* --------------------------Contact Us Page */
@@ -499,7 +499,7 @@ a:hover{
 
 .contact-input{
     width: 100%;
-    padding: 5px;
+    padding: 0.3125rem;
     border: 1px solid #00a9ec;
     border-radius: 2px;
     height: 39px;
@@ -513,7 +513,7 @@ a:hover{
 .contact-label{
     text-align: left;
     background: transparent;
-    padding: 5px 0 0;
+    padding: 0.3125rem 0 0;
     padding-right: 35px;
 }
 
@@ -529,7 +529,7 @@ a:hover{
     width: 100%;
     margin: 0;
     text-align: center;
-    padding-top: 5px;
+    padding-top: 0.3125rem;
     font-size: 1.3rem;
     font-weight: 300;
     color: grey;
@@ -539,7 +539,7 @@ a:hover{
     width: 175px;
     text-align: center;
     font-size: 1.3rem;
-    margin: 10px auto;
+    margin: 0.625rem auto;
 }
 
 .contact-alt h3{
@@ -564,17 +564,17 @@ a:hover{
 
      .card-title .icon-blue {
         font-size: 67px;
-        padding-bottom: 10px;
+        padding-bottom: 0.625rem;
         padding-top: 0px;
     }
 
     .general-card p {
-        padding: 0 10px;
+        padding: 0 0.625rem;
         font-size: 15px;
     }
 
     .location-card p{
-        padding: 0 5px;
+        padding: 0 0.3125rem;
         font-size: 14px;
     }
 
@@ -583,7 +583,7 @@ a:hover{
     }
 
     .fav-card p {
-        margin: 5px 0 0;
+        margin: 0.3125rem 0 0;
     }
 
     .fav-container .card-button .btn-blue {
@@ -608,7 +608,7 @@ a:hover{
     }
 
     .fav-container .card-button .btn-blue{
-        margin-top: 5px;
+        margin-top: 0.3125rem;
     }
 }
 
@@ -640,7 +640,7 @@ a:hover{
     }
 
     .btn-row{
-        padding-left: 5px;
+        padding-left: 0.3125rem;
     }
 
     .box-row{
@@ -675,7 +675,7 @@ a:hover{
     .btn-lang{
         margin: 0;
         font-size: 13px;
-        padding: 1px 3px 0 5px;
+        padding: 1px 3px 0 0.3125rem;
         position: relative;
         left: -45px;
     }
