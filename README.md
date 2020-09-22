@@ -161,8 +161,8 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 - Friends and Family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ### Known Bugs
-- On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page. 
-    - A white gap can be seen to the right of the footer and navigation bar as a result.
+- ~~On some mobile devices the Hero Image pushes the size of screen out more than any of the other content on the page.~~ - **Fixed 22/9/20**
+    - ~~A white gap can be seen to the right of the footer and navigation bar as a result.~~
 - On Microsoft Edge and Internet Explorer Browsers, all links in Navbar are pushed upwards when hovering over them. 
 - Sweden (SV) Button does not direct anywhere on Location/Language dropdown.
     - Due to time limitations, the Swedish pages could not be implemented nor could the whole site be translated to Swedish.
